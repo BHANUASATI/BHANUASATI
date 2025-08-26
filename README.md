@@ -1,11 +1,18 @@
 <h2 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=FF4500&width=650&lines=Hi+%F0%9F%91%8B!+My+name+is+Bhanu+Asati;I'm+a+Full-Stack+Web+Developer+%26+Gamer;Proudly+Indian+%F0%9F%87%AE%F0%9F%87%B3+Jay+Hind!" alt="Typing SVG" />
+
+  
 </h2>
 
 
 
 ###
 
+<br clear="both">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/BHANUASATI.https://github.com/BHANUASATI&"  />
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BHANUASATI&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BHANUASATI&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
