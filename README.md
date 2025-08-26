@@ -1,6 +1,7 @@
 <h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=FF4500&width=650&lines=Hi+%F0%9F%91%8B!+My+name+is+Bhanu+Asati;I'm+a+Full-Stack+Web+Developer+%26+Gamer;from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=500&color=FF4500&width=650&lines=Hi+%F0%9F%91%8B!+My+name+is+Bhanu+Asati;I'm+a+Full-Stack+Web+Developer+%26+Gamer;Proudly+Indian+%F0%9F%87%AE%F0%9F%87%B3+Jay+Hind!" alt="Typing SVG" />
 </h2>
+
 
 
 ###
@@ -54,6 +55,13 @@
 <img src="https://raw.githubusercontent.com/BHANUASATI/BHANUASATI/main/SNAKE.gif" alt="Snake animation" />
 
 <br clear="both">
+<div align="center">
+  <a href="https://open.spotify.com/user/31cfjofwhiyyryobwj3df4b2vedi?si=zWkxvv_BSRuOBWGt7QLl0Q" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cfjofwhiyyryobwj3df4b2vedi&count=5&unique=true&width=600" alt="Spotify Recently Played" />
+  </a>
+</div>
+
+
 
 
 ### Connect with me:
