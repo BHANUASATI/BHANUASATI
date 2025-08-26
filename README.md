@@ -50,13 +50,11 @@
 
 
 
-###
+
+<img src="https://raw.githubusercontent.com/BHANUASATI/BHANUASATI/main/SNAKE.gif" alt="Snake animation" />
 
 <br clear="both">
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/yourgif.gif" alt="Snake animation" />
-
-###
 
 ### Connect with me:
 
