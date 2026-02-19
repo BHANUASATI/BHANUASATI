@@ -10,14 +10,87 @@
 </div>
 
 
-
+<!-- <div align="center">
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHANUASATI&theme=radical" alt="Profile details badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHANUASATI&theme=github_dark" alt="Top languages by repo badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHANUASATI&theme=2077" alt="Top languages by commit badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHANUASATI&theme=2077" alt="General stats badge"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHANUASATI&theme=dracula&utcOffset=8" alt="Commits per day badge"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BHANUASATI&theme=chartreuse-dark" alt="BHANUASATI streak badge"/>
+</div> -->
 
 # 💫 About Me:
 Hey there 👋 I'm Bhanu Asati  <br>I build, break, and rebuild things with code 🚀  <br>Currently exploring full-stack development, cloud concepts, and real-world project building.<br>
 
+
+
 <pre><code style="color:#39FF14;">
 user@linux:~$ error: failed to push some refs to 'https://github.com/BHANUASATI'
 </code></pre>
+<h2 align="center">📌 Profile Overview</h2>
+
+<div align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHANUASATI&theme=radical"
+    alt="Bhanu Asati Profile Summary"
+    width="90%"
+  />
+</div>
+
+
+<h2 align="center">🧠 Language Insights</h2>
+
+<div align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHANUASATI&theme=github_dark"
+    alt="Top Languages by Repository"
+    width="45%"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHANUASATI&theme=2077"
+    alt="Top Languages by Commits"
+    width="45%"
+  />
+</div>
+
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHANUASATI&theme=2077"
+    alt="Bhanu Asati GitHub Stats"
+    width="45%"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=BHANUASATI&theme=chartreuse-dark"
+    alt="GitHub Streak Stats"
+    width="45%"
+  />
+</div>
+
+
+
+
+<h2 align="center">⏱️ Productivity</h2>
+
+<div align="center">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHANUASATI&theme=dracula&utcOffset=8"
+    alt="Productive Time"
+    width="60%"
+  />
+</div>
+
+
+
+<img src="https://raw.githubusercontent.com/BHANUASATI/BHANUASATI/output/snake.svg" alt="Snake animation" />
+
+
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bhanu.asati.7/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/asati_raja_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhanu-asati-155493253) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@CodeXGamerVlogs) 
@@ -29,7 +102,28 @@ user@linux:~$ error: failed to push some refs to 'https://github.com/BHANUASATI'
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHANUASATI&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BHANUASATI&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+  <h2 align="center">GitHub Profile Trophy</h2>
+  <p align="center">🏆🏆🏆🏆🏆</p>
+</div>
+<div align="center">
+
+[![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
+[![forks](https://img.shields.io/github/forks/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/network/members)
+[![issues](https://img.shields.io/github/issues/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/issues)
+[![license](https://img.shields.io/github/license/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE)
+[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)
+
+</div>
+<p align="center">
+  You can use this service for free. I'm looking for sponsors to help us keep up with this service❤️
+</p>
+<div align="center">
+  <a href="https://github.com/sponsors/ryo-ma">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4" alt="Sponsor"/>
+  </a>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
