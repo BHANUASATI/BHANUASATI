@@ -1,3 +1,17 @@
+<div id="top">
+
+<p align="center">
+
+<div align="center">
+  <a href="https://github.com/eli64s/readme-ai">
+    <img src="./WelcomeGithub.gif" alt="Bhanu Asati Welcome GIF" width="100%">
+
+  </a>
+</div>
+
+
+
+
 # 💫 About Me:
 Hey there 👋 I'm Bhanu Asati  <br>I build, break, and rebuild things with code 🚀  <br>Currently exploring full-stack development, cloud concepts, and real-world project building.<br>
 
