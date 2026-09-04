@@ -1,4 +1,4 @@
-name: Generate Tetris animation
+name: Generate Contribution Animation
 
 on:
   schedule:
@@ -18,13 +18,12 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate tetris.svg
+      - name: generate contribution-animation.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/tetris.svg?palette=github-dark&type=tetris
-            dist/tetris-dark.svg?palette=github-dark&type=tetris&color_snake=#00FF41&color_dots=#00b300,#009900,#006600,#003300,#001a00
+            dist/contribution-animation.svg?palette=github-dark&color_snake=#00FF41&color_dots=#00b300,#009900,#006600,#003300,#001a00
 
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
