@@ -20,14 +20,45 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=BHANUASATI&theme=chartreuse-dark" alt="BHANUASATI streak badge"/>
 </div> -->
 
-# 💫 About Me:
-Hey there 👋 I'm Bhanu Asati  <br>I build, break, and rebuild things with code 🚀  <br>Currently exploring full-stack development, cloud concepts, and real-world project building.<br>
+# 💫 About Me
 
+Hi 👋 I'm **Bhanu Asati** 🇮🇳
 
+I'm a **Computer Science Engineer** passionate about **AI/ML, Agentic AI, and Backend Engineering**. I enjoy building intelligent, scalable applications and transforming complex problems into practical software solutions.
 
-<pre><code style="color:#39FF14;">
-user@linux:~$ error: failed to push some refs to 'https://github.com/BHANUASATI'
-</code></pre>
+* 🤖 Exploring **Agentic AI, LLMs, RAG & AI Agents**
+* 🧠 Building solutions with **Machine Learning & Computer Vision**
+* ⚙️ Developing backend applications with **Python & FastAPI**
+* 🗄️ Working with **SQL & PostgreSQL**
+* 🐳 Building and deploying applications using **Docker**
+* 🚀 Focused on developing **practical, production-ready AI solutions**
+* 📚 Continuously learning through **real-world projects and problem solving**
+
+### ⚡ Current Focus
+
+`Agentic AI` → `Machine Learning` → `Backend Engineering` → `Production AI Systems`
+
+```bash
+┌──(bhanu㉿github)-[~/projects]
+└─$ whoami
+
+Bhanu Asati
+AI/ML Engineer | Agentic AI | Backend Developer
+
+┌──(bhanu㉿github)-[~/projects]
+└─$ status
+
+● Building intelligent systems
+● Exploring Agentic AI & LLM applications
+● Developing scalable backend solutions
+● Turning ideas into production-ready software
+
+┌──(bhanu㉿github)-[~/projects]
+└─$ echo "Let's build something impactful."
+
+Let's build something impactful. 🚀
+```
+
 <h2 align="center">📌 Profile Overview</h2>
 
 <div align="center">
