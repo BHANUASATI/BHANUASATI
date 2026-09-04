@@ -1,302 +1,338 @@
-<!-- ██████████████████████████████████████████████████████ -->
-<!--           BHANU ASATI  ·  GITHUB PROFILE             -->
-<!-- ██████████████████████████████████████████████████████ -->
+<!-- ============================================================ -->
+<!--           BHANU ASATI  ·  GITHUB PROFILE  ·  v5.0         -->
+<!-- ============================================================ -->
 
+<!-- ══════ HERO HEADER ══════ -->
 <div align="center">
-  <img src="Front_Banner.gif" width="100%" alt="Bhanu Asati Banner"/>
+  <img src="Front_Banner.gif" width="100%" alt="Bhanu Asati"/>
 </div>
 
 <div align="center">
 
-<!-- Terminal boot sequence -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=14&duration=1&pause=99999&color=00FF41&center=true&vCenter=true&width=700&height=20&lines=Initializing+profile...+%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+100%25" alt="boot"/>
+<!-- Animated venom-style header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00FF41&height=220&text=BHANU%20ASATI&fontColor=00FF41&fontSize=70&fontAlignY=65&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AI%20Explorer&descAlignY=82&descSize=16&descColor=00CC33"/>
 
-<!-- Name — big, green, typewriter -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=50&duration=2500&pause=99999&color=00FF41&center=true&vCenter=true&width=750&height=90&lines=BHANU+ASATI" alt="Name"/>
+<!-- Boot sequence typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=80&pause=9999&color=00FF41&center=true&vCenter=true&width=700&height=22&lines=%5BSYSTEM%5D+Loading+profile+BHANUASATI...+%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+DONE" alt="boot"/>
 
-<!-- Blinking cursor role cycling -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=00CC33&center=true&vCenter=true&multiline=false&width=700&height=35&lines=%3E_+Full-Stack+Developer;%3E_+Cloud+%26+DevOps+Engineer;%3E_+AI+%2F+ML+Explorer;%3E_+Open+Source+Contributor;%3E_+Always+Shipping+Something" alt="Roles"/>
+<!-- Role typewriter -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=750&height=45&lines=%3E_+Full-Stack+Developer;%3E_+Cloud+%26+DevOps+Engineer;%3E_+AI+%2F+ML+Builder;%3E_+Open+Source+Contributor;%3E_+Always+Shipping+Something+%F0%9F%9A%80" alt="roles"/>
 
 <br/>
 
-<!-- Green terminal-style badges -->
-<img src="https://komarev.com/ghpvc/?username=BHANUASATI&style=for-the-badge&color=000000&label=VISITORS&labelColor=00FF41" alt="visitors"/>
+<!-- Neon green badge row -->
+<img src="https://komarev.com/ghpvc/?username=BHANUASATI&style=for-the-badge&color=000000&label=VISITORS&labelColor=00FF41"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/BHANUASATI?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=00FF41" alt="followers"/>
+<img src="https://img.shields.io/github/followers/BHANUASATI?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=00FF41"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/BHANUASATI?label=STARS&style=for-the-badge&color=000000&labelColor=00b300" alt="stars"/>
+<img src="https://img.shields.io/github/stars/BHANUASATI?label=TOTAL+STARS&style=for-the-badge&color=000000&labelColor=00b300"/>
 
 </div>
 
+<!-- Neon animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
 <br/>
 
----
+<!-- ══════ ABOUT ME ══════ -->
 
-<!-- ░░ SECTION 01 — ABOUT ░░ -->
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<h3>
 
 ```
-╔══════════════════════════════════════════╗
-║  $ whoami                                ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  NAME   ›  Bhanu Asati                   ║
-║  FROM   ›  India  🇮🇳                    ║
-║  ROLE   ›  Full-Stack Dev + Cloud Eng    ║
-║  STATUS ›  [ BUILDING ]  always online   ║
-║  DEBUG  ›  console.log("why tho??")      ║
-║  OS     ›  Works-On-My-Machine™ v2.0     ║
-║  UPTIME ›  24 / 7 / 365                  ║
-║                                          ║
-╚══════════════════════════════════════════╝
+╔════════════════════════════════════════╗
+║  $ whoami                              ║
+╠════════════════════════════════════════╣
+║                                        ║
+║  NAME    ›  Bhanu Asati                ║
+║  FROM    ›  India  🇮🇳                 ║
+║  ROLE    ›  Full-Stack Dev + Cloud     ║
+║  STATUS  ›  [ ONLINE ]  always open    ║
+║  EDITOR  ›  VS Code  (dark theme)      ║
+║  DEBUG   ›  console.log("why??")       ║
+║  COFFEE  ›  ██████████  100%           ║
+║  OS      ›  Works-On-My-Machine™       ║
+║                                        ║
+╚════════════════════════════════════════╝
 ```
 
-**`// Currently executing:`**
+</h3>
+
+**`// Currently running:`**
+
 ```bash
-$ ./build --stack react,nextjs,nodejs
-$ ./deploy --target aws,azure,gcp
-$ ./research --topic "LLMs + Agentic AI"
-$ ./contribute --to open-source
+$ react-build --app "Next.js + Node.js"
+$ cloud-deploy --target "AWS | Azure | GCP"
+$ research --module "LLMs + Agentic AI + RAG"
+$ git push origin main   # always shipping
 ```
 
-**`// Accepting connections from:`**
-`collabs` &nbsp;·&nbsp; `open-source` &nbsp;·&nbsp; `internships` &nbsp;·&nbsp; `cool ideas`
+**`// Open to:`** &nbsp; `collabs` &nbsp;·&nbsp; `open-source` &nbsp;·&nbsp; `internships` &nbsp;·&nbsp; `freelance`
 
 <br clear="both"/>
 
+<!-- Neon animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
 <br/>
 
----
-
-<!-- ░░ SECTION 02 — TECH STACK ░░ -->
+<!-- ══════ TECH STACK ══════ -->
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════╗
-║  $ cat /etc/tech-stack.conf           ║
-╚═══════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%E2%9A%99%EF%B8%8F++TECH+STACK+%E2%9A%99%EF%B8%8F" alt="tech stack header"/>
 
-**— LANGUAGES —**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,cs,php,bash,html,css,r&theme=dark&perline=12"/>
+<table>
+<tr>
+<td align="center" width="50%">
 
-**— FRONTEND —**
+**`[ LANGUAGES ]`**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,vite&theme=dark&perline=12"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=cs,php,bash,html,css,r&theme=dark&perline=6"/>
 
-**— BACKEND & APIs —**
+</td>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi,dotnet&theme=dark&perline=10"/>
+**`[ FRONTEND ]`**
 
-**— CLOUD · DEVOPS · INFRA —**
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular&theme=dark&perline=4"/>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite&theme=dark&perline=4"/>
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,firebase,vercel,netlify,nginx,githubactions&theme=dark&perline=10"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-**— DATABASES —**
+**`[ BACKEND & APIs ]`**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,redis&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi,dotnet&theme=dark&perline=5"/>
 
-**— AI / ML —**
+</td>
+<td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=10"/>
+**`[ DATABASES ]`**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,redis&theme=dark&perline=5"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**`[ CLOUD · DEVOPS ]`**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,nginx,githubactions&theme=dark&perline=5"/>
+
+</td>
+<td align="center" width="50%">
+
+**`[ AI / ML ]`**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=3"/>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 
-**— DESIGN & TOOLS —**
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
 
-<img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode,linux,raspberrypi&theme=dark&perline=10"/>
+**`[ DESIGN & TOOLS ]`**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode,linux,raspberrypi&theme=dark&perline=7"/>
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+</td>
+</tr>
+</table>
+
 </div>
+
+<!-- Neon animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
 <br/>
 
----
-
-<!-- ░░ SECTION 03 — GITHUB STATS ░░ -->
+<!-- ══════ GITHUB STATS ══════ -->
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════╗
-║  $ github --stats --user BHANUASATI   ║
-╚═══════════════════════════════════════╝
-```
-
-<img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BHANUASATI&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00b300&text_color=00CC33&custom_title=Bhanu+Asati+%E2%80%94+GitHub+Stats"/>
-<img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BHANUASATI&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00CC33&custom_title=Most+Used+Languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%93%8A++GITHUB+STATISTICS" alt="stats header"/>
 
 <br/><br/>
 
-<img width="68%" src="https://streak-stats.demolab.com/?user=BHANUASATI&hide_border=true&background=0D0D0D&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&dates=00b300&stroke=00FF41&border=00FF41&currStreakNum=FFFFFF&sideNums=00FF41"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ░░ SECTION 04 — CONTRIBUTION HEATMAP ░░ -->
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════╗
-║  $ git log --all --graph --oneline    ║
-╚═══════════════════════════════════════╝
-```
-
-<img width="92%" src="https://ghchart.rshah.org/00FF41/BHANUASATI" alt="Green Contribution Heatmap"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=99999&pause=99999&color=00b300&center=true&vCenter=true&width=600&lines=darker+%3D+more+commits+%C2%B7+every+square+is+a+shipped+story" alt="heatmap legend"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ░░ SECTION 05 — PROFILE OVERVIEW ░░ -->
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════╗
-║  $ gh api /users/BHANUASATI           ║
-╚═══════════════════════════════════════╝
-```
-
-<img src="https://github-widgetbox.vercel.app/api/profile?username=BHANUASATI&data=followers,repositories,stars,commits&theme=serika-dark" width="80%"/>
+<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BHANUASATI&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FF41&icon_color=00b300&text_color=00CC33&custom_title=Bhanu+Asati+%E2%80%94+GitHub+Stats&ring_color=00FF41"/>
+&nbsp;
+<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BHANUASATI&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=00CC33&custom_title=Most+Used+Languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHANUASATI&theme=chartreuse-dark" width="92%"/>
+<img width="65%" src="https://streak-stats.demolab.com/?user=BHANUASATI&theme=highcontrast&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&dates=00b300&stroke=00FF41&border=003300&currStreakNum=FFFFFF&sideNums=00FF41"/>
+
+</div>
+
+<!-- Neon animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
+<br/>
+
+<!-- ══════ CONTRIBUTION HEATMAP ══════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%9F%A9++CONTRIBUTION+HEATMAP" alt="heatmap header"/>
+
+<br/><br/>
+
+<img width="94%" src="https://ghchart.rshah.org/00FF41/BHANUASATI" alt="GitHub Contribution Heatmap"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=9999&pause=9999&color=00b300&center=true&vCenter=true&width=520&height=20&lines=%E2%96%A0+darker+%3D+more+commits+%C2%B7+every+square+is+a+shipped+story" alt="legend"/>
+
+</div>
+
+<!-- Neon animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
+<br/>
+
+<!-- ══════ PROFILE OVERVIEW ══════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%94%8D++PROFILE+DEEP+DIVE" alt="overview header"/>
+
+<br/><br/>
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=BHANUASATI&data=followers,repositories,stars,commits&theme=serika-dark" width="82%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHANUASATI&theme=chartreuse-dark" width="94%"/>
 
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHANUASATI&theme=chartreuse-dark" width="44%"/>
+&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHANUASATI&theme=chartreuse-dark" width="44%"/>
 
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHANUASATI&theme=chartreuse-dark" width="44%"/>
+&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHANUASATI&theme=chartreuse-dark&utcOffset=5.5" width="44%"/>
 
 </div>
 
+<!-- Neon animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
 <br/>
 
----
-
-<!-- ░░ SECTION 06 — 3D CONTRIBUTION ░░ -->
+<!-- ══════ 3D CONTRIBUTION ══════ -->
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║  $ render --3d --theme night-rainbow     ║
-╚══════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=660&height=45&lines=%F0%9F%8C%90++3D+CONTRIBUTION+GALAXY" alt="3d header"/>
+
+<br/><br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/BHANUASATI/BHANUASATI/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=99999&pause=99999&color=00b300&center=true&vCenter=true&width=500&lines=%E2%9A%A1+auto-generated+nightly+via+GitHub+Actions" alt="note"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=9999&pause=9999&color=00b300&center=true&vCenter=true&width=540&height=20&lines=%E2%9A%A1+auto-generated+nightly+via+GitHub+Actions" alt="note"/>
 
 </div>
 
+<!-- Neon animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
 <br/>
 
----
-
-<!-- ░░ SECTION 07 — SNAKE ░░ -->
+<!-- ══════ SNAKE ══════ -->
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════╗
-║  $ ./snake --consume-contributions    ║
-╚═══════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=640&height=45&lines=%F0%9F%90%8D++COMMITS+BEING+DEVOURED" alt="snake header"/>
 
-<img src="SNAKE.gif" width="92%" alt="Snake consuming contributions"/>
+<br/><br/>
+
+<img src="SNAKE.gif" width="94%" alt="Snake eating contributions"/>
 
 </div>
 
+<!-- Neon animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
 <br/>
 
----
-
-<!-- ░░ SECTION 08 — DEV QUOTE ░░ -->
+<!-- ══════ DEV QUOTE ══════ -->
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════╗
-║  $ fortune | cowsay -f tux            ║
-╚═══════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%E2%9C%A8++DEV+QUOTE+OF+THE+DAY" alt="quote header"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" width="82%"/>
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" width="84%"/>
 
 </div>
 
+<!-- Neon animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
 <br/>
 
----
-
-<!-- ░░ SECTION 09 — CONNECT ░░ -->
+<!-- ══════ CONNECT ══════ -->
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════╗
-║  $ ping --social                      ║
-╚═══════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%93%A1++FIND+ME+ONLINE" alt="connect header"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/bhanu-asati-155493253">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/asati_raja_/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@CodeXGamerVlogs">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.facebook.com/bhanu.asati.7/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </div>
 
+<!-- Neon animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
 <br/>
 
----
-
-<!-- ░░ SECTION 10 — SUPPORT ░░ -->
+<!-- ══════ SUPPORT ══════ -->
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════╗
-║  $ sudo apt-get install caffeine      ║
-╚═══════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%E2%98%95++FUEL+MY+CAFFEINE+ADDICTION" alt="support header"/>
 
-<sub><i>if my code saved you a Stack Overflow visit — fuel the next commit ☕</i></sub>
+<br/>
+
+<sub><i>Every great commit starts with coffee — if my work helped you, fuel the next one ☕</i></sub>
 
 <br/><br/>
 
@@ -316,16 +352,12 @@ $ ./contribute --to open-source
 
 <br/>
 
----
-
-<!-- ░░ FOOTER ░░ -->
+<!-- ══════ FOOTER ══════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=600&color=00b300&center=true&vCenter=true&width=650&lines=%24+echo+%22Thanks+for+visiting%21+Leave+a+%E2%AD%90+if+something+helped.%22;Thanks+for+visiting!+Leave+a+%E2%AD%90+if+something+helped.;%24+git+push+origin+main+%23+always+shipping...;%24+exit+0" alt="footer typing"/>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:003300,100:00FF41&height=130&section=footer&text=Keep+Building.+Keep+Shipping.&fontSize=20&fontColor=00FF41&animation=fadeIn&fontAlignY=65&desc=github.com%2FBHANUASATI&descAlignY=82&descSize=12&descColor=00b300"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=600&color=00b300&center=true&vCenter=true&width=700&lines=%24+echo+%22Thanks+for+visiting%21+Drop+a+%E2%AD%90+if+something+helped.%22;Thanks+for+visiting!+Drop+a+%E2%AD%90+if+something+helped.;%24+git+push+origin+main+--force-with-lease;%24+exit+0+%23+see+you+on+the+other+side" alt="footer typing"/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003300,100:00FF41&height=140&section=footer&text=Keep+Building.+Keep+Shipping.&fontSize=22&fontColor=00FF41&animation=fadeIn&fontAlignY=65&desc=github.com%2FBHANUASATI&descAlignY=82&descSize=13&descColor=00b300"/>
