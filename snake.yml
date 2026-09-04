@@ -1,8 +1,8 @@
-name: Generate snake animation
+name: Generate Pac-Man animation
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
 
   workflow_dispatch:
 
@@ -18,14 +18,15 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      - name: generate pacman.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: |
+            dist/pacman.svg?palette=github-dark&type=pacman
+            dist/pacman-dark.svg?palette=github-dark&type=pacman&color_snake=#00FF41&color_dots=#00b300,#009900,#006600,#003300,#001a00
 
-
-      - name: push snake.svg to the output branch
+      - name: push pacman.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
