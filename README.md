@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/eli64s/readme-ai">
-    <img src="./Front_Banner.gif" alt="Bhanu Asati Welcome GIF" width="100%">
+    <img src="Front_Banner.gif" alt="Bhanu Asati Welcome GIF" width="100%">
 
   </a>
 </div>
