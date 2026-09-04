@@ -1,122 +1,242 @@
-<div id="top">
-
-<p align="center">
-
 <div align="center">
-  <a href="https://github.com/eli64s/readme-ai">
-    <img src="./Welcome_Banner.gif" alt="Bhanu Asati Welcome GIF" width="100%">
 
+<!-- ═══════════════════════════════════════════ -->
+<!--        ANIMATED HEADER BANNER              -->
+<!-- ═══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhanu%20Asati&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Explorer%20%7C%20Code%20Architect&descAlignY=55&descSize=18"/>
+
+<!-- Animated Typing Lines -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Bhanu+Asati+%F0%9F%91%8B;I+build%2C+break+%26+rebuild+with+code+%F0%9F%9A%80;Full-Stack+%7C+Cloud+%7C+AI+Enthusiast+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<!-- Live Badge Row -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=BHANUASATI&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/BHANUASATI?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/BHANUASATI?style=for-the-badge&color=ffd700&labelColor=0d1117&label=STARS+EARNED" alt="Stars"/>
+</p>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              ABOUT ME                      -->
+<!-- ═══════════════════════════════════════════ -->
+
+<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+### 🧑‍💻 About Me
+
+```yaml
+name        : Bhanu Asati
+location    : India 🇮🇳
+role        : Full-Stack Developer & Cloud Explorer
+
+currently_learning:
+  - Full-Stack Dev  → React · Node.js · Next.js
+  - Cloud Platforms → AWS · Azure · GCP
+  - AI / ML         → TensorFlow · PyTorch
+
+passions:
+  - Building real-world products from scratch
+  - Open Source contributions
+  - System Design & Architecture
+  - DevOps & Cloud-native apps
+
+fun_fact: "I debug with console.log and I'm not ashamed 😄"
+open_to: "Collaborations · Internships · Open Source"
+```
+
+<br clear="both"/>
+
+---
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--          3D CONTRIBUTION GRAPH             -->
+<!-- ═══════════════════════════════════════════ -->
+<div align="center">
+  <h2>🌐 3D Contribution Galaxy</h2>
+  <img src="https://github.com/BHANUASATI/BHANUASATI/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--            GITHUB STATS GRID               -->
+<!-- ═══════════════════════════════════════════ -->
+<div align="center">
+  <h2>📊 GitHub Statistics</h2>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BHANUASATI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=BHANUASATI&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" alt="Streak Stats"/>
+
+  <br/><br/>
+
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHANUASATI&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&include_all_commits=true&count_private=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--          CONTRIBUTION ACTIVITY             -->
+<!-- ═══════════════════════════════════════════ -->
+<div align="center">
+  <h2>📈 Contribution Activity</h2>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BHANUASATI&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--             TROPHY SHOWCASE                -->
+<!-- ═══════════════════════════════════════════ -->
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=BHANUASATI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              TECH ARSENAL                  -->
+<!-- ═══════════════════════════════════════════ -->
+<div align="center">
+  <h2>⚡ Tech Arsenal</h2>
+</div>
+
+<!-- Skill Icons Grid -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,ts,java,php,bash,html,css,r&theme=dark&perline=12" alt="Languages"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,vite,jquery&theme=dark&perline=8" alt="Frontend"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi,dotnet&theme=dark&perline=8" alt="Backend"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,vercel,netlify,docker,kubernetes&theme=dark&perline=8" alt="Cloud & DevOps"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,dynamodb&theme=dark&perline=8" alt="Databases"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=8" alt="AI/ML"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,git,github,linux,raspberrypi&theme=dark&perline=8" alt="Tools"/>
+</div>
+
+<br/>
+
+<!-- Badge fallback for unlisted tools -->
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--          PROFILE SUMMARY CARDS             -->
+<!-- ═══════════════════════════════════════════ -->
+<div align="center">
+  <h2>📌 Profile Deep Dive</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHANUASATI&theme=tokyonight" width="90%" alt="Profile Details"/>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHANUASATI&theme=tokyonight" width="44%" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHANUASATI&theme=tokyonight" width="44%" alt="Most Commit Language"/>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHANUASATI&theme=tokyonight" width="44%" alt="Stats Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHANUASATI&theme=tokyonight&utcOffset=5.5" width="44%" alt="Productive Time"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--            SNAKE ANIMATION                 -->
+<!-- ═══════════════════════════════════════════ -->
+<div align="center">
+  <h2>🐍 Watch My Contributions Get Eaten</h2>
+  <img src="https://raw.githubusercontent.com/BHANUASATI/BHANUASATI/main/SNAKE.gif" alt="Snake animation" width="90%"/>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--           DEV QUOTE OF THE DAY             -->
+<!-- ═══════════════════════════════════════════ -->
+<div align="center">
+  <h2>✨ Dev Quote of the Day</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="80%"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--            LET'S CONNECT                   -->
+<!-- ═══════════════════════════════════════════ -->
+<div align="center">
+  <h2>🌐 Let's Connect</h2>
+  <a href="https://www.linkedin.com/in/bhanu-asati-155493253">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/asati_raja_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/bhanu.asati.7/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@CodeXGamerVlogs">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
 </div>
 
+---
 
-<!-- <div align="center">
-  <br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHANUASATI&theme=radical" alt="Profile details badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHANUASATI&theme=github_dark" alt="Top languages by repo badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHANUASATI&theme=2077" alt="Top languages by commit badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHANUASATI&theme=2077" alt="General stats badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHANUASATI&theme=dracula&utcOffset=8" alt="Commits per day badge"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BHANUASATI&theme=chartreuse-dark" alt="BHANUASATI streak badge"/>
-</div> -->
-
-# 💫 About Me:
-Hey there 👋 I'm Bhanu Asati  <br>I build, break, and rebuild things with code 🚀  <br>Currently exploring full-stack development, cloud concepts, and real-world project building.<br>
-
-
-
-<pre><code style="color:#39FF14;">
-user@linux:~$ error: failed to push some refs to 'https://github.com/BHANUASATI'
-</code></pre>
-<h2 align="center">📌 Profile Overview</h2>
-
+<!-- ═══════════════════════════════════════════ -->
+<!--            SUPPORT MY WORK                 -->
+<!-- ═══════════════════════════════════════════ -->
 <div align="center">
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHANUASATI&theme=radical"
-    alt="Bhanu Asati Profile Summary"
-    width="90%"
-  />
+  <h2>☕ Support My Work</h2>
+  <p>If you find my projects helpful, a coffee goes a long way!</p>
+  <a href="https://buymeacoffee.com/BhanuAsati">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee"/>
+  </a>
+  &nbsp;
+  <a href="https://paypal.me/BhanuAsati">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  </a>
+  &nbsp;
+  <a href="https://ko-fi.com/BhanuAsati">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi"/>
+  </a>
 </div>
-
-
-<h2 align="center">🧠 Language Insights</h2>
-
-<div align="center">
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHANUASATI&theme=github_dark"
-    alt="Top Languages by Repository"
-    width="45%"
-  />
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHANUASATI&theme=2077"
-    alt="Top Languages by Commits"
-    width="45%"
-  />
-</div>
-
-
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHANUASATI&theme=2077"
-    alt="Bhanu Asati GitHub Stats"
-    width="45%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=BHANUASATI&theme=chartreuse-dark"
-    alt="GitHub Streak Stats"
-    width="45%"
-  />
-</div>
-
-
-
-
-<h2 align="center">⏱️ Productivity</h2>
-
-<div align="center">
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHANUASATI&theme=dracula&utcOffset=8"
-    alt="Productive Time"
-    width="60%"
-  />
-</div>
-
-
-
-
-
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bhanu.asati.7/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/asati_raja_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhanu-asati-155493253) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@CodeXGamerVlogs) 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BHANUASATI&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BHANUASATI&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BHANUASATI&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
-
-</div>
-
-
-## ✨ Developer Inspiration
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BHANUASATI&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BHANUASATI&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/BhanuAsati) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BhanuAsati) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/BhanuAsati) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/BhanuAsati) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ═══════════════════════════════════════════ -->
+<!--            ANIMATED FOOTER                 -->
+<!-- ═══════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
