@@ -1150,159 +1150,156 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED DIVIDER                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img
-  src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
-  width="100%"
-  alt="Animated Divider"
-/>
 
 <br/>
-<!-- ══════ 3D CONTRIBUTION ══════ -->
+<!-- ══════ DEVELOPER SIGNATURE ══════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=660&height=45&lines=%F0%9F%8C%90++3D+CONTRIBUTION+GALAXY" alt="3d header"/>
+### `✦ BUILD • BREAK • LEARN • REPEAT ✦`
+
+<sub>Turning ideas into things that actually work.</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/BHANUASATI/BHANUASATI/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=9999&pause=9999&color=00b300&center=true&vCenter=true&width=540&height=20&lines=%E2%9A%A1+auto-generated+nightly+via+GitHub+Actions" alt="note"/>
+`< code />` &nbsp; `☕` &nbsp; `git commit` &nbsp; `🚀`
 
 </div>
 
-<!-- Neon animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,50:00C853,100:7C4DFF&height=2&section=footer" width="100%"/>
 
 <br/>
 
-<!-- ══════ DEVELOPER IN ACTION ══════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%92%BB++DEVELOPER+IN+ACTION" alt="dev in action header"/>
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="31%" alt="Developer working"/>
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="31%" alt="Coding"/>
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="31%" alt="Dev on pc"/>
-
-<br/><br/>
-
-```
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║   $ git log --oneline --graph --all                   ║
-║                                                       ║
-║   The best code is the code that ships.               ║
-║   The best developer is the one who never stops.      ║
-║   — Bhanu Asati                                       ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30%" alt="Globe"/>
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="30%" alt="Matrix"/>
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30%" alt="Circuit"/>
-
-</div>
-
-<!-- Neon animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
-
-<br/>
-
-<!-- ══════ DEV QUOTE ══════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%E2%9C%A8++DEV+QUOTE+OF+THE+DAY" alt="quote header"/>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" width="84%"/>
-
-</div>
-
-<!-- Neon animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
-
-<br/>
 
 <!-- ══════ CONNECT ══════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%93%A1++FIND+ME+ONLINE" alt="connect header"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=7C4DFF&center=true&vCenter=true&width=620&height=45&lines=%F0%9F%93%A1+LET'S+CONNECT" alt="Let's Connect"/>
+
+<br/>
+
+<sub>Find me around the web 👇</sub>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/bhanu-asati-155493253">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.instagram.com/asati_raja_/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.youtube.com/@CodeXGamerVlogs">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.facebook.com/bhanu.asati.7/">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </div>
 
-<!-- Neon animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
-
 <br/>
 
+<br/>
 <!-- ══════ SUPPORT ══════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%E2%98%95++FUEL+MY+CAFFEINE+ADDICTION" alt="support header"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=9999&pause=9999&color=FFB74D&center=true&vCenter=true&width=600&height=45&lines=%E2%98%95+SUPPORT+MY+WORK" alt="Support"/>
 
 <br/>
 
-<sub><i>Every great commit starts with coffee — if my work helped you, fuel the next one ☕</i></sub>
+<sub>Enjoyed something I built? A coffee helps me keep building ☕</sub>
 
 <br/><br/>
 
 <a href="https://buymeacoffee.com/BhanuAsati">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFB74D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
+
 &nbsp;
+
 <a href="https://ko-fi.com/BhanuAsati">
-  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ko--fi-7C4DFF?style=for-the-badge&logo=ko-fi&logoColor=white"/>
 </a>
+
 &nbsp;
+
 <a href="https://paypal.me/BhanuAsati">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PayPal-4F8CFF?style=for-the-badge&logo=paypal&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ✦ FOOTER ✦                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ══════ FOOTER ══════ -->
+<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=600&color=00b300&center=true&vCenter=true&width=700&lines=%24+echo+%22Thanks+for+visiting%21+Drop+a+%E2%AD%90+if+something+helped.%22;Thanks+for+visiting!+Drop+a+%E2%AD%90+if+something+helped.;%24+git+push+origin+main+--force-with-lease;%24+exit+0+%23+see+you+on+the+other+side" alt="footer typing"/>
+<!-- Final Message -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=1000&color=7C4DFF&center=true&vCenter=true&width=760&height=28&lines=%24+echo+%22Thanks+for+exploring+my+profile.%22;%24+git+status+--short;%24+echo+%22Always+learning.+Always+building.%22;%24+git+push+origin+main;%24+exit+0+%23+until+the+next+commit+%F0%9F%9A%80"
+  alt="Developer footer message"
+/>
+
+<br/><br/>
+
+<!-- ═══════════════ PERSONAL SIGNATURE ═══════════════ -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=2&section=header"
+  width="75%"
+  alt=""
+/>
+
+<br/>
+
+<p>
+  <b>🚀 KEEP BUILDING · KEEP SHIPPING · KEEP EVOLVING</b>
+</p>
+
+<p>
+  <sub>
+    Thanks for stopping by — if you found something useful,
+    <b>⭐ consider leaving a star</b>.
+  </sub>
+</p>
+
+<br/>
+
+<!-- Signature -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&duration=9999&pause=9999&color=8B949E&center=true&vCenter=true&width=600&height=22&lines=Built+with+code+%E2%80%A2+curiosity+%E2%80%A2+late-night+debugging+%F0%9F%98%84"
+  alt="Developer signature"
+/>
+
+<br/><br/>
+
+<!-- ═══════════════ FOOTER WAVE ═══════════════ -->
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003300,100:00FF41&height=140&section=footer&text=Keep+Building.+Keep+Shipping.&fontSize=22&fontColor=00FF41&animation=fadeIn&fontAlignY=65&desc=github.com%2FBHANUASATI&descAlignY=82&descSize=13&descColor=00b300"/>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:241052,70:5B2EFF,100:00C853&height=170&section=footer&text=KEEP%20BUILDING.%20KEEP%20SHIPPING.&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=62&desc=github.com%2FBHANUASATI&descAlignY=80&descSize=13&descColor=C9D1D9"
+  alt="Keep Building Keep Shipping footer"
+/>
+
+<br/>
+
+<!-- Final invisible spacing -->
+<div align="center">
+  <sub>© Bhanu Asati • Developer • Builder • Problem Solver</sub>
+</div>
+
+<br/>
