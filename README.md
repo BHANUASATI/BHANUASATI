@@ -1,6 +1,17 @@
 <!-- ============================================================ -->
 <!--           BHANU ASATI  ·  GITHUB PROFILE  ·  v5.0         -->
 <!-- ============================================================ -->
+<div align="center">
+
+<!-- Animated Indian Flag -->
+<img src="https://animated-country-flags.malith.dev/webp/IN.webp" width="145" alt="India Flag"/>
+
+<br><br>
+
+<!-- Professional Animated GitHub Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020403,35:06150C,70:0B3320,100:00C853&height=245&section=header&text=WELCOME%20TO%20MY%20BUILD%20SPACE&fontColor=FFFFFF&fontFamily=Segoe%20UI&fontSize=50&fontAlign=50&fontAlignY=43&animation=twinkling&desc=BUILDING%20FROM%20INDIA%2C%20ENGINEERING%20FOR%20THE%20WORLD&descAlign=50&descAlignY=68&descSize=17&descColor=D1FAE5"/>
+
+</div>
 
 <!-- ══════ HERO HEADER ══════ -->
 <div align="center">
@@ -9,8 +20,7 @@
 
 <div align="center">
 
-<!-- Animated venom-style header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003300,100:00FF41&height=220&text=BHANU%20ASATI&fontColor=00FF41&fontSize=70&fontAlignY=65&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Cloud%20Engineer%20%7C%20AI%20Explorer&descAlignY=82&descSize=16&descColor=00CC33"/>
+
 
 <!-- Boot sequence typing -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=80&pause=9999&color=00FF41&center=true&vCenter=true&width=700&height=22&lines=%5BSYSTEM%5D+Loading+profile+BHANUASATI...+%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+DONE" alt="boot"/>
