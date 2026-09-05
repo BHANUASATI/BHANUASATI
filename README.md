@@ -75,12 +75,48 @@
 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    🗺️ TABLE OF CONTENTS                       -->
+<!--          Quick-jump navigation to every major section         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<a href="#about-me"><img src="https://img.shields.io/badge/01-About%20Me-58A6FF?style=for-the-badge&logo=user&logoColor=white"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/02-Tech%20Stack-8B5CF6?style=for-the-badge&logo=stackshare&logoColor=white"/></a>
+<a href="#github-analytics"><img src="https://img.shields.io/badge/03-GitHub%20Analytics-22C55E?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#contribution-heatmap"><img src="https://img.shields.io/badge/04-Contribution%20Heatmap-00FF41?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="#profile-analytics"><img src="https://img.shields.io/badge/05-Profile%20Analytics-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="#connect"><img src="https://img.shields.io/badge/06-Let's%20Connect-7C4DFF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#support"><img src="https://img.shields.io/badge/07-Support%20My%20Work-FFB74D?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+
+<br/><br/>
+
+<a href="#current-direction"><img src="https://img.shields.io/badge/1.1-Current%20Direction-58A6FF?style=flat-square&logoColor=white"/></a>
+&nbsp;
+<a href="#application-engineering"><img src="https://img.shields.io/badge/2.1-Application%20Engineering-58A6FF?style=flat-square&logoColor=white"/></a>
+&nbsp;
+<a href="#data-cloud-infra"><img src="https://img.shields.io/badge/2.2-Data%20%26%20Cloud-58A6FF?style=flat-square&logoColor=white"/></a>
+&nbsp;
+<a href="#agentic-ai"><img src="https://img.shields.io/badge/2.3-Agentic%20AI-58A6FF?style=flat-square&logoColor=white"/></a>
+&nbsp;
+<a href="#engineering-toolbox"><img src="https://img.shields.io/badge/2.4-Engineering%20Toolbox-58A6FF?style=flat-square&logoColor=white"/></a>
+&nbsp;
+<a href="#core-stack"><img src="https://img.shields.io/badge/2.5-Core%20Stack-58A6FF?style=flat-square&logoColor=white"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A0D,50:00C853,100:071A0D&height=2&section=header&animation=fadeIn" width="100%" alt="ToC divider"/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                         👤 ABOUT ME                           -->
 <!--       Bio, engineering focus, philosophy, profile image       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3C+About+Me+%2F%3E" alt="About Me"/>
+<a name="about-me"></a>
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=01+%E2%80%94+%3C+About+Me+%2F%3E" alt="01 — About Me"/>
 </h2>
 
 <br>
@@ -259,7 +295,8 @@ and building systems that remain maintainable as they grow.**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=420&height=45&lines=%F0%9F%A7%AD+Current+Direction" alt="Current Direction"/>
+<a name="current-direction"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=24&duration=9999&pause=9999&color=58A6FF&center=false&vCenter=true&width=420&height=45&lines=1.1+%E2%80%94+%F0%9F%A7%AD+Current+Direction" alt="1.1 — Current Direction"/>
 
 <p>
   <b>
@@ -325,9 +362,11 @@ and building systems that remain maintainable as they grow.**
 
 <div align="center">
 
+<a name="tech-stack"></a>
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=%E2%9A%99%EF%B8%8F+TECH+STACK+%E2%9A%99%EF%B8%8F"
-  alt="Tech Stack"
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=9999&pause=9999&color=58A6FF&center=false&vCenter=true&width=900&height=60&lines=02+%E2%80%94+%E2%9A%99%EF%B8%8F+TECH+STACK"
+  alt="02 — Tech Stack"
 />
 
 <br>
@@ -350,7 +389,8 @@ and building systems that remain maintainable as they grow.**
 <!--      Programming languages · Frontend · Backend        -->
 <!-- ─────────────────────────────────────────────────────── -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%8C%90+Application+Engineering" alt="Application Engineering"/>
+<a name="application-engineering"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=24&duration=9999&pause=9999&color=58A6FF&center=false&vCenter=true&width=700&height=45&lines=2.1+%E2%80%94+%F0%9F%8C%90+Application+Engineering" alt="2.1 — Application Engineering"/>
 
 <br>
 
@@ -364,7 +404,7 @@ and building systems that remain maintainable as they grow.**
 
 <h2>💻</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=220&height=35&lines=PROGRAMMING" alt="PROGRAMMING"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=220&height=35&lines=PROGRAMMING" alt="PROGRAMMING"/>
 
 <br>
 
@@ -394,7 +434,7 @@ TypeScript · C++ · C · C# · PHP
 
 <h2>🎨</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=220&height=35&lines=FRONTEND" alt="FRONTEND"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=220&height=35&lines=FRONTEND" alt="FRONTEND"/>
 
 <br>
 
@@ -424,7 +464,7 @@ Angular · Tailwind · Bootstrap · Vite
 
 <h2>⚡</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=220&height=35&lines=BACKEND" alt="BACKEND"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=220&height=35&lines=BACKEND" alt="BACKEND"/>
 
 <br>
 
@@ -477,7 +517,8 @@ Business Logic · Backend Architecture
 <!--        Databases · Cloud providers · DevOps tools      -->
 <!-- ─────────────────────────────────────────────────────── -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%E2%98%81%EF%B8%8F+Data%2C+Cloud+%26+Infrastructure" alt="Data, Cloud & Infrastructure"/>
+<a name="data-cloud-infra"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=24&duration=9999&pause=9999&color=58A6FF&center=false&vCenter=true&width=700&height=45&lines=2.2+%E2%80%94+%E2%98%81%EF%B8%8F+Data%2C+Cloud+%26+Infrastructure" alt="2.2 — Data, Cloud & Infrastructure"/>
 
 <br>
 
@@ -491,7 +532,7 @@ Business Logic · Backend Architecture
 
 <h2>🗄️</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=220&height=35&lines=DATABASES" alt="DATABASES"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=220&height=35&lines=DATABASES" alt="DATABASES"/>
 
 <br>
 
@@ -529,7 +570,7 @@ Persistence · Optimization
 
 <h2>☁️</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=220&height=35&lines=CLOUD" alt="CLOUD"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=220&height=35&lines=CLOUD" alt="CLOUD"/>
 
 <br>
 
@@ -555,7 +596,7 @@ Firebase · Vercel
 
 <h2>🐳</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=220&height=35&lines=DEVOPS" alt="DEVOPS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=220&height=35&lines=DEVOPS" alt="DEVOPS"/>
 
 <br>
 
@@ -601,7 +642,8 @@ CI/CD · Infrastructure · Linux
 <!--      LangChain · LangGraph · LangSmith showcase        -->
 <!-- ─────────────────────────────────────────────────────── -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%A7%A0+Agentic+AI+Engineering" alt="Agentic AI Engineering"/>
+<a name="agentic-ai"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=24&duration=9999&pause=9999&color=58A6FF&center=false&vCenter=true&width=700&height=45&lines=2.3+%E2%80%94+%F0%9F%A7%A0+Agentic+AI+Engineering" alt="2.3 — Agentic AI Engineering"/>
 
 <p>
 <b>From LLM Applications → Agent Orchestration → Evaluation & Observability</b>
@@ -621,7 +663,7 @@ CI/CD · Infrastructure · Linux
 
 <h1>🦜</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=260&height=35&lines=LangChain" alt="LangChain"/>
+<img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=18&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=260&height=35&lines=LangChain" alt="LangChain"/>
 
 <img
   src="https://img.shields.io/badge/LLM%20APPLICATIONS-0D1117?style=for-the-badge&logoColor=1C8DFF"
@@ -672,7 +714,7 @@ RAG · Chains · Tools · Prompt Engineering
 
 <h1>🔀</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=260&height=35&lines=LangGraph" alt="LangGraph"/>
+<img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=18&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=260&height=35&lines=LangGraph" alt="LangGraph"/>
 
 <img
   src="https://img.shields.io/badge/AGENT%20ORCHESTRATION-0D1117?style=for-the-badge&logoColor=8B5CF6"
@@ -723,7 +765,7 @@ State · Nodes · Graphs · Multi-Agent Workflows
 
 <h1>🔬</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=260&height=35&lines=LangSmith" alt="LangSmith"/>
+<img src="https://readme-typing-svg.demolab.com?font=Oxanium&weight=700&size=18&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=260&height=35&lines=LangSmith" alt="LangSmith"/>
 
 <img
   src="https://img.shields.io/badge/EVALUATION%20%26%20OBSERVABILITY-0D1117?style=for-the-badge&logoColor=22C55E"
@@ -818,7 +860,8 @@ Tracing · Evaluation · Debugging · Observability
 <!--   Development tools · Software engineering · Design    -->
 <!-- ─────────────────────────────────────────────────────── -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+Engineering+Toolbox" alt="Engineering Toolbox"/>
+<a name="engineering-toolbox"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=24&duration=9999&pause=9999&color=58A6FF&center=false&vCenter=true&width=700&height=45&lines=2.4+%E2%80%94+%F0%9F%9B%A0%EF%B8%8F+Engineering+Toolbox" alt="2.4 — Engineering Toolbox"/>
 
 <br>
 
@@ -830,7 +873,7 @@ Tracing · Evaluation · Debugging · Observability
 
 <td width="33.33%" align="center" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=260&height=35&lines=%F0%9F%94%A7+DEVELOPMENT" alt="DEVELOPMENT"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=260&height=35&lines=%F0%9F%94%A7+DEVELOPMENT" alt="DEVELOPMENT"/>
 
 <br>
 
@@ -850,7 +893,7 @@ Tracing · Evaluation · Debugging · Observability
 
 <td width="33.33%" align="center" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=320&height=35&lines=%F0%9F%8E%AF+SOFTWARE+ENGINEERING" alt="SOFTWARE ENGINEERING"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=320&height=35&lines=%F0%9F%8E%AF+SOFTWARE+ENGINEERING" alt="SOFTWARE ENGINEERING"/>
 
 <br>
 
@@ -880,7 +923,7 @@ Tracing · Evaluation · Debugging · Observability
 
 <td width="33.33%" align="center" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=340&height=35&lines=%F0%9F%8E%A8+DESIGN+%26+PRODUCTIVITY" alt="DESIGN & PRODUCTIVITY"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=340&height=35&lines=%F0%9F%8E%A8+DESIGN+%26+PRODUCTIVITY" alt="DESIGN & PRODUCTIVITY"/>
 
 <br>
 
@@ -927,7 +970,8 @@ Tracing · Evaluation · Debugging · Observability
 <!--   Primary tech: Java · Python · TS · React · Spring    -->
 <!-- ─────────────────────────────────────────────────────── -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%94%A5+My+Core+Stack" alt="My Core Stack"/>
+<a name="core-stack"></a>
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=24&duration=9999&pause=9999&color=58A6FF&center=false&vCenter=true&width=700&height=45&lines=2.5+%E2%80%94+%F0%9F%94%A5+My+Core+Stack" alt="2.5 — My Core Stack"/>
 
 <br>
 
@@ -1008,7 +1052,11 @@ Tracing · Evaluation · Debugging · Observability
 <div align="center">
 
 <!-- Section Header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%93%8A+GITHUB+ANALYTICS+%E2%80%94+CODE+%26+CONSISTENCY" alt="GitHub Analytics"/>
+<a name="github-analytics"></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=9999&pause=9999&color=58A6FF&center=false&vCenter=true&width=750&height=45&lines=03+%E2%80%94+%F0%9F%93%8A+GITHUB+ANALYTICS" alt="03 — GitHub Analytics"/>
+
+
 
 <br/>
 
@@ -1024,7 +1072,7 @@ Tracing · Evaluation · Debugging · Observability
 <tr>
 <td align="center" width="50%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=380&height=35&lines=%E2%9A%A1+GitHub+Performance" alt="GitHub Performance"/>
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=380&height=35&lines=%E2%9A%A1+GitHub+Performance" alt="GitHub Performance"/>
 
 <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BHANUASATI&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&custom_title=Bhanu+Asati+%E2%80%94+GitHub+Stats&ring_color=58A6FF" alt="GitHub Stats"/>
 
@@ -1032,7 +1080,7 @@ Tracing · Evaluation · Debugging · Observability
 
 <td align="center" width="50%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=380&height=35&lines=%F0%9F%92%BB+Most+Used+Languages" alt="Most Used Languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=380&height=35&lines=%F0%9F%92%BB+Most+Used+Languages" alt="Most Used Languages"/>
 
 <img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BHANUASATI&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&custom_title=Technology+Distribution" alt="Most Used Languages"/>
 
@@ -1054,7 +1102,7 @@ Tracing · Evaluation · Debugging · Observability
 <!-- ─────────────── CONTRIBUTION STREAK ─────────────── -->
 <!--            Animated streak stats card               -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=380&height=35&lines=%F0%9F%94%A5+Contribution+Streak" alt="Contribution Streak"/>
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=18&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=380&height=35&lines=%F0%9F%94%A5+Contribution+Streak" alt="Contribution Streak"/>
 
 <img width="72%" src="https://streak-stats.demolab.com/?user=BHANUASATI&theme=highcontrast&background=0D1117&ring=58A6FF&fire=F59E0B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&border=30363D&currStreakNum=FFFFFF&sideNums=58A6FF" alt="GitHub Contribution Streak"/>
 
@@ -1119,7 +1167,10 @@ Tracing · Evaluation · Debugging · Observability
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%9F%A9++CONTRIBUTION+HEATMAP" alt="heatmap header"/>
+<a name="contribution-heatmap"></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=false&vCenter=true&width=650&height=45&lines=04+%E2%80%94+%F0%9F%9F%A9+CONTRIBUTION+HEATMAP" alt="04 — Contribution Heatmap"/>
+
 
 <br/><br/>
 
@@ -1158,10 +1209,13 @@ Tracing · Evaluation · Debugging · Observability
 <div align="center">
 
 <!-- Section Header -->
+<a name="profile-analytics"></a>
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00C853&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%93%8A+PROFILE+ANALYTICS"
-  alt="Profile Analytics"
+  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=9999&pause=9999&color=00C853&center=false&vCenter=true&width=700&height=45&lines=05+%E2%80%94+%F0%9F%93%8A+PROFILE+ANALYTICS"
+  alt="05 — Profile Analytics"
 />
+
 
 <br/>
 
@@ -1357,7 +1411,10 @@ Tracing · Evaluation · Debugging · Observability
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=7C4DFF&center=true&vCenter=true&width=620&height=45&lines=%F0%9F%93%A1+LET'S+CONNECT" alt="Let's Connect"/>
+<a name="connect"></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=9999&pause=9999&color=7C4DFF&center=false&vCenter=true&width=620&height=45&lines=06+%E2%80%94+%F0%9F%93%A1+LET'S+CONNECT" alt="06 — Let's Connect"/>
+
 
 <br/>
 
@@ -1408,7 +1465,11 @@ Tracing · Evaluation · Debugging · Observability
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=9999&pause=9999&color=FFB74D&center=true&vCenter=true&width=600&height=45&lines=%E2%98%95+SUPPORT+MY+WORK" alt="Support"/>
+<a name="support"></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=25&duration=9999&pause=9999&color=FFB74D&center=false&vCenter=true&width=600&height=45&lines=07+%E2%80%94+%E2%98%95+SUPPORT+MY+WORK" alt="07 — Support My Work"/>
+
+</div>
 
 <br/>
 
