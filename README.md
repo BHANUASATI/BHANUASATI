@@ -1,6 +1,13 @@
 <!-- ============================================================ -->
 <!--           BHANU ASATI  ·  GITHUB PROFILE  ·  v5.0         -->
 <!-- ============================================================ -->
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      🌐 HERO HEADER                           -->
+<!--           Animated flag + capsule-render top banner           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 <!-- Animated Indian Flag -->
@@ -13,14 +20,22 @@
 
 </div>
 
-<!-- ══════ HERO HEADER ══════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     🎞️ SECOND BANNER GIF                      -->
+<!--           Local animated banner displayed below header        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
   <img src="Second_Banner.gif" width="100%" alt="Bhanu Asati"/>
 </div>
 
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  ⌨️ TYPING ANIMATIONS + BADGES               -->
+<!--   Engineering statement · Role titles · Profile metrics       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
-
-
 
 <!-- Professional animated engineering statement -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=15&duration=45&pause=1600&color=00C853&center=true&vCenter=true&width=820&height=30&lines=Building+intelligent+and+scalable+software+systems;Designing+AI-powered+solutions+for+real-world+problems;Engineering+production-ready+applications+with+modern+technologies;Turning+complex+problems+into+simple%2C+reliable+solutions" alt="Professional engineering statement"/>
@@ -32,8 +47,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=14&duration=50&pause=2200&color=B9F6CA&center=true&vCenter=true&width=820&height=28&lines=Focused+on+AI%2C+backend+engineering%2C+automation%2C+and+scalable+systems." alt="Professional focus"/>
 
 <br/>
-
-<div align="center">
 
 <!-- GitHub Profile Metrics -->
 <img src="https://komarev.com/ghpvc/?username=BHANUASATI&style=for-the-badge&color=0B1220&labelColor=00C853&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -49,22 +62,26 @@
 
 </div>
 
-<!-- Subtle animated divider -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ── DIVIDER ──                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A0D,50:00C853,100:071A0D&height=4&section=header&animation=fadeIn" width="100%" alt="Animated divider"/>
 </div>
 
 <br/>
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                              -->
+<!--                         👤 ABOUT ME                           -->
+<!--       Bio, engineering focus, philosophy, profile image       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3C+About+Me+%2F%3E" alt="About Me "/ >
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3C+About+Me+%2F%3E" alt="About Me"/>
 </h2>
-
-
 
 <br>
 
@@ -182,10 +199,6 @@ and building systems that remain maintainable as they grow.**
   <sub>Full-Stack • Backend • AI</sub>
 </p>
 
-<br>
-
-
-
 <br><br>
 
 <!-- PROFILE BADGES -->
@@ -223,19 +236,26 @@ and building systems that remain maintainable as they grow.**
 
 <br>
 
-<!-- ═════════════════════ GRADIENT DIVIDER ═════════════════════ -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ── DIVIDER ──                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,50:8B5CF6,100:22C55E"
-    width="82%"
-    alt=""
+    width="100%"
+    alt="Divider"
   />
 </p>
 
 <br>
 
-<!-- ═════════════════════ CURRENT DIRECTION ═════════════════════ -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    🧭 CURRENT DIRECTION                       -->
+<!--     Active focus areas: Full-Stack, Backend, AI, etc.        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -282,13 +302,28 @@ and building systems that remain maintainable as they grow.**
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       END ABOUT ME                            -->
+<!--                      END  ABOUT ME                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ── DIVIDER ──                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E"
+    width="100%"
+    alt="Divider"
+  />
+</p>
+
+<br>
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ⚙️  TECH STACK  ⚙️                         -->
+<!--                      ⚙️  TECH STACK                          -->
+<!--   Application layer · Data/Cloud · AI · Toolbox · Core stack -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -303,7 +338,7 @@ and building systems that remain maintainable as they grow.**
 <img
   src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E"
   width="100%"
-  alt=""
+  alt="Tech Stack Divider"
 />
 
 <br><br>
@@ -313,9 +348,10 @@ and building systems that remain maintainable as they grow.**
 <br><br><br>
 
 
-<!-- ╔════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       APPLICATION LAYER                            ║ -->
-<!-- ╚════════════════════════════════════════════════════════════════════╝ -->
+<!-- ─────────────────────────────────────────────────────── -->
+<!--              🌐 APPLICATION ENGINEERING LAYER          -->
+<!--      Programming languages · Frontend · Backend        -->
+<!-- ─────────────────────────────────────────────────────── -->
 
 <h2>🌐 Application Engineering</h2>
 
@@ -324,6 +360,8 @@ and building systems that remain maintainable as they grow.**
 <table width="100%">
 
 <tr>
+
+<!-- ── Programming Languages ── -->
 
 <td width="33.33%" align="center" valign="top">
 
@@ -353,6 +391,8 @@ TypeScript · C++ · C · C# · PHP
 </td>
 
 
+<!-- ── Frontend Frameworks & Tools ── -->
+
 <td width="33.33%" align="center" valign="top">
 
 <h2>🎨</h2>
@@ -380,6 +420,8 @@ Angular · Tailwind · Bootstrap · Vite
 
 </td>
 
+
+<!-- ── Backend Frameworks & Services ── -->
 
 <td width="33.33%" align="center" valign="top">
 
@@ -416,11 +458,27 @@ Business Logic · Backend Architecture
 </table>
 
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ── DIVIDER ──                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&color=0:58A6FF,50:8B5CF6,100:22C55E"
+    width="100%"
+    alt="Divider"
+  />
+</p>
+
 <br><br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         DATA + CLOUD                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- ─────────────────────────────────────────────────────── -->
+<!--           ☁️ DATA, CLOUD & INFRASTRUCTURE LAYER        -->
+<!--        Databases · Cloud providers · DevOps tools      -->
+<!-- ─────────────────────────────────────────────────────── -->
 
 <h2>☁️ Data, Cloud & Infrastructure</h2>
 
@@ -429,6 +487,8 @@ Business Logic · Backend Architecture
 <table width="100%">
 
 <tr>
+
+<!-- ── Databases ── -->
 
 <td width="33.33%" align="center" valign="top">
 
@@ -466,6 +526,8 @@ Persistence · Optimization
 </td>
 
 
+<!-- ── Cloud Platforms ── -->
+
 <td width="33.33%" align="center" valign="top">
 
 <h2>☁️</h2>
@@ -489,6 +551,8 @@ Firebase · Vercel
 
 </td>
 
+
+<!-- ── DevOps & CI/CD ── -->
 
 <td width="33.33%" align="center" valign="top">
 
@@ -518,19 +582,27 @@ CI/CD · Infrastructure · Linux
 </table>
 
 
-<br><br><br>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    🧠 AGENTIC AI SHOWCASE                     -->
+<!--                        ── DIVIDER ──                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:8B5CF6,50:EC4899,100:22C55E"
-  width="100%"
-  alt=""
-/>
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:8B5CF6,50:EC4899,100:22C55E"
+    width="100%"
+    alt="Divider"
+  />
+</p>
 
 <br><br>
+
+
+<!-- ─────────────────────────────────────────────────────── -->
+<!--              🧠 AGENTIC AI ENGINEERING LAYER           -->
+<!--      LangChain · LangGraph · LangSmith showcase        -->
+<!-- ─────────────────────────────────────────────────────── -->
 
 <h2>🧠 Agentic AI Engineering</h2>
 
@@ -544,7 +616,7 @@ CI/CD · Infrastructure · Linux
 
 <tr>
 
-<!-- ═════════════════════ LANGCHAIN ═════════════════════ -->
+<!-- ── LangChain: LLM Application Layer ── -->
 
 <td width="33.33%" align="center" valign="top">
 
@@ -595,7 +667,7 @@ RAG · Chains · Tools · Prompt Engineering
 </td>
 
 
-<!-- ═════════════════════ LANGGRAPH ═════════════════════ -->
+<!-- ── LangGraph: Agent Orchestration Layer ── -->
 
 <td width="33.33%" align="center" valign="top">
 
@@ -646,7 +718,7 @@ State · Nodes · Graphs · Multi-Agent Workflows
 </td>
 
 
-<!-- ═════════════════════ LANGSMITH ═════════════════════ -->
+<!-- ── LangSmith: Evaluation & Observability Layer ── -->
 
 <td width="33.33%" align="center" valign="top">
 
@@ -702,12 +774,12 @@ Tracing · Evaluation · Debugging · Observability
 
 <br>
 
-<!-- AGENT FLOW -->
+<!-- ── AI Pipeline Flow ── -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:58A6FF,50:8B5CF6,100:22C55E"
   width="75%"
-  alt=""
+  alt="AI Flow Divider"
 />
 
 <br><br>
@@ -727,12 +799,27 @@ Tracing · Evaluation · Debugging · Observability
 </sub>
 
 
-<br><br><br>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ── DIVIDER ──                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br><br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E"
+    width="100%"
+    alt="Divider"
+  />
+</p>
+
+<br><br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      ENGINEERING TOOLBOX                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ─────────────────────────────────────────────────────── -->
+<!--              🛠️ ENGINEERING TOOLBOX LAYER              -->
+<!--   Development tools · Software engineering · Design    -->
+<!-- ─────────────────────────────────────────────────────── -->
 
 <h2>🛠️ Engineering Toolbox</h2>
 
@@ -741,6 +828,8 @@ Tracing · Evaluation · Debugging · Observability
 <table width="100%">
 
 <tr>
+
+<!-- ── Development Tools ── -->
 
 <td width="33.33%" align="center" valign="top">
 
@@ -759,6 +848,8 @@ Tracing · Evaluation · Debugging · Observability
 
 </td>
 
+
+<!-- ── Software Engineering Practices ── -->
 
 <td width="33.33%" align="center" valign="top">
 
@@ -788,6 +879,8 @@ Tracing · Evaluation · Debugging · Observability
 </td>
 
 
+<!-- ── Design & Productivity Tools ── -->
+
 <td width="33.33%" align="center" valign="top">
 
 <h3>🎨 DESIGN & PRODUCTIVITY</h3>
@@ -814,20 +907,28 @@ Tracing · Evaluation · Debugging · Observability
 
 </table>
 
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ── DIVIDER ──                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<br><br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E"
+    width="100%"
+    alt="Divider"
+  />
+</p>
+
 <br><br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         CORE STACK                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E"
-  width="100%"
-  alt=""
-/>
-
-<br><br>
+<!-- ─────────────────────────────────────────────────────── -->
+<!--                🔥 MY CORE STACK SUMMARY                -->
+<!--   Primary tech: Java · Python · TS · React · Spring    -->
+<!-- ─────────────────────────────────────────────────────── -->
 
 <h2>🔥 My Core Stack</h2>
 
@@ -876,35 +977,36 @@ Tracing · Evaluation · Debugging · Observability
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      END TECH STACK                           -->
+<!--                      END  TECH STACK                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       NEON DIVIDER                            -->
+<!--                        ── DIVIDER ──                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E"
+    width="100%"
+    alt="Neon divider"
+  />
+</p>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E"
-  width="100%"
-  alt="Neon divider"
-/>
-
-<br>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=25&lines=%E2%9A%A1+BUILD+%C2%B7+LEARN+%C2%B7+ITERATE+%C2%B7+SHIP+%E2%9A%A1"
-  alt="Engineering divider"
-/>
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=25&lines=%E2%9A%A1+BUILD+%C2%B7+LEARN+%C2%B7+ITERATE+%C2%B7+SHIP+%E2%9A%A1"
+    alt="Engineering divider"
+  />
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    📊 GITHUB ANALYTICS                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   📊 GITHUB ANALYTICS                         -->
+<!--    GitHub stats · Language distribution · Contribution        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -913,11 +1015,13 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:58A6FF,50:8B5CF6,100:22C55E" width="85%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:58A6FF,50:8B5CF6,100:22C55E" width="100%" alt="Divider"/>
 
 <br/><br/>
 
+
 <!-- ─────────────── CORE STATISTICS ─────────────── -->
+<!--   GitHub Stats card + Top Languages card side by side -->
 
 <table>
 <tr>
@@ -941,11 +1045,17 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/>
 
-<!-- ─────────────── CONTRIBUTION STREAK ─────────────── -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ── DIVIDER ──                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:22C55E,50:58A6FF,100:8B5CF6" width="70%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:22C55E,50:58A6FF,100:8B5CF6" width="100%" alt="Divider"/>
 
 <br/><br/>
+
+
+<!-- ─────────────── CONTRIBUTION STREAK ─────────────── -->
+<!--            Animated streak stats card               -->
 
 ### 🔥 Contribution Streak
 
@@ -953,7 +1063,9 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/><br/>
 
+
 <!-- ─────────────── ENGINEERING METRICS ─────────────── -->
+<!--        Summary row of Build, Consistency, etc.      -->
 
 <table>
 <tr>
@@ -992,13 +1104,21 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&section=footer&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E" width="100%" alt="GitHub Footer Divider"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ── DIVIDER ──                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E" width="100%" alt="Divider"/>
 
 </div>
 
 <br/>
 
-<!-- ══════ CONTRIBUTION HEATMAP ══════ -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  🟩 CONTRIBUTION HEATMAP                     -->
+<!--         Full-year commit heatmap via ghchart.rshah.org        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -1010,16 +1130,32 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/>
 
+<!-- Heatmap legend -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=9999&pause=9999&color=00b300&center=true&vCenter=true&width=520&height=20&lines=%E2%96%A0+darker+%3D+more+commits+%C2%B7+every+square+is+a+shipped+story" alt="legend"/>
 
 </div>
 
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ── DIVIDER ──                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br/>
 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E"
+    width="100%"
+    alt="Divider"
+  />
+</p>
+
+<br/>
+
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROFILE OVERVIEW                            -->
+<!--                  📊 PROFILE ANALYTICS                        -->
+<!--  Widgetbox · Summary cards · Language charts · Coding hours   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -1039,7 +1175,9 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/>
 
-<!-- ═══════════════ PROFILE STATS ═══════════════ -->
+
+<!-- ─────────────── PROFILE STATS WIDGET ─────────────── -->
+<!--     Followers · Repos · Stars · Commits overview     -->
 
 <img
   src="https://github-widgetbox.vercel.app/api/profile?username=BHANUASATI&data=followers,repositories,stars,commits&theme=dark"
@@ -1049,7 +1187,17 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/><br/>
 
-<!-- ═══════════════ CONTRIBUTION OVERVIEW ═══════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ── DIVIDER ──                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:00C853,50:58A6FF,100:8B5CF6" width="100%" alt="Divider"/>
+
+<br/><br/>
+
+
+<!-- ─────────────── CONTRIBUTION OVERVIEW ─────────────── -->
+<!--    Full contribution timeline & activity overview     -->
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHANUASATI&theme=github_dark"
@@ -1059,7 +1207,9 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/><br/>
 
-<!-- ═══════════════ LANGUAGE ANALYTICS ═══════════════ -->
+
+<!-- ─────────────── LANGUAGE ANALYTICS ─────────────── -->
+<!--  Repos per language + most-committed-to language   -->
 
 <table>
 <tr>
@@ -1099,7 +1249,9 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/>
 
-<!-- ═══════════════ CODING ANALYTICS ═══════════════ -->
+
+<!-- ─────────────── CODING ANALYTICS ─────────────── -->
+<!--    GitHub statistics + productive coding hours    -->
 
 <table>
 <tr>
@@ -1139,7 +1291,7 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/>
 
-<!-- ═══════════════ STATUS ═══════════════ -->
+<!-- ─────────────── DEVELOPER STATUS ─────────────── -->
 
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=9999&pause=9999&color=00A846&center=true&vCenter=true&width=720&height=25&lines=%E2%9C%A8+BUILDING+%C2%B7+CONTRIBUTING+%C2%B7+LEARNING+%C2%B7+SHIPPING"
@@ -1151,9 +1303,25 @@ Tracing · Evaluation · Debugging · Observability
 <br/>
 
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ── DIVIDER ──                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,50:00C853,100:7C4DFF&height=4&section=footer"
+    width="100%"
+    alt="Divider"
+  />
+</p>
 
 <br/>
-<!-- ══════ DEVELOPER SIGNATURE ══════ -->
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   ✍️ DEVELOPER SIGNATURE                     -->
+<!--         Terminal-style motto + code symbols + tagline         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -1169,12 +1337,26 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,50:00C853,100:7C4DFF&height=2&section=footer" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ── DIVIDER ──                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,50:00C853,100:7C4DFF&height=2&section=footer"
+    width="100%"
+    alt="Divider"
+  />
+</p>
 
 <br/>
 
 
-<!-- ══════ CONNECT ══════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      📡 LET'S CONNECT                        -->
+<!--         LinkedIn · Instagram · YouTube · Facebook            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -1206,8 +1388,26 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/>
 
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ── DIVIDER ──                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:7C4DFF,50:00C853,100:7C4DFF&height=2&section=footer"
+    width="100%"
+    alt="Divider"
+  />
+</p>
+
 <br/>
-<!-- ══════ SUPPORT ══════ -->
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ☕ SUPPORT MY WORK                      -->
+<!--    Buy Me a Coffee · Ko-fi · PayPal donation links           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -1238,15 +1438,31 @@ Tracing · Evaluation · Debugging · Observability
 </div>
 
 <br/>
+
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ✦ FOOTER ✦                             -->
+<!--                        ── DIVIDER ──                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E"
+    width="100%"
+    alt="Divider"
+  />
+</p>
 
 <br/>
 
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ✦ FOOTER ✦                            -->
+<!--     Terminal messages · signature · Keep Building wave        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Final Message -->
+<!-- Final Message: terminal-style animated lines -->
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=3500&pause=1000&color=7C4DFF&center=true&vCenter=true&width=760&height=28&lines=%24+echo+%22Thanks+for+exploring+my+profile.%22;%24+git+status+--short;%24+echo+%22Always+learning.+Always+building.%22;%24+git+push+origin+main;%24+exit+0+%23+until+the+next+commit+%F0%9F%9A%80"
   alt="Developer footer message"
@@ -1254,12 +1470,12 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/><br/>
 
-<!-- ═══════════════ PERSONAL SIGNATURE ═══════════════ -->
+<!-- ── Personal Signature ── -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=2&section=header"
   width="75%"
-  alt=""
+  alt="Signature divider"
 />
 
 <br/>
@@ -1277,7 +1493,7 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/>
 
-<!-- Signature -->
+<!-- Built-with signature line -->
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&duration=9999&pause=9999&color=8B949E&center=true&vCenter=true&width=600&height=22&lines=Built+with+code+%E2%80%A2+curiosity+%E2%80%A2+late-night+debugging+%F0%9F%98%84"
   alt="Developer signature"
@@ -1285,9 +1501,9 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/><br/>
 
-<!-- ═══════════════ FOOTER WAVE ═══════════════ -->
-
 </div>
+
+<!-- ── Footer Wave ── -->
 
 <img
   width="100%"
@@ -1297,9 +1513,13 @@ Tracing · Evaluation · Debugging · Observability
 
 <br/>
 
-<!-- Final invisible spacing -->
+<!-- Final copyright -->
 <div align="center">
   <sub>© Bhanu Asati • Developer • Builder • Problem Solver</sub>
 </div>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      END  FOOTER                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
