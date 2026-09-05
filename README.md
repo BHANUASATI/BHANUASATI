@@ -15,77 +15,287 @@
 
 <!-- ══════ HERO HEADER ══════ -->
 <div align="center">
-  <img src="Front_Banner.gif" width="100%" alt="Bhanu Asati"/>
+  <img src="Second_Banner.gif" width="100%" alt="Bhanu Asati"/>
 </div>
 
 <div align="center">
 
 
 
-<!-- Boot sequence typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=80&pause=9999&color=00FF41&center=true&vCenter=true&width=700&height=22&lines=%5BSYSTEM%5D+Loading+profile+BHANUASATI...+%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+DONE" alt="boot"/>
+<!-- Professional animated engineering statement -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=15&duration=45&pause=1600&color=00C853&center=true&vCenter=true&width=820&height=30&lines=Building+intelligent+and+scalable+software+systems;Designing+AI-powered+solutions+for+real-world+problems;Engineering+production-ready+applications+with+modern+technologies;Turning+complex+problems+into+simple%2C+reliable+solutions" alt="Professional engineering statement"/>
 
-<!-- Role typewriter -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=750&height=45&lines=%3E_+Full-Stack+Developer;%3E_+Cloud+%26+DevOps+Engineer;%3E_+AI+%2F+ML+Builder;%3E_+Open+Source+Contributor;%3E_+Always+Shipping+Something+%F0%9F%9A%80" alt="roles"/>
+<!-- Professional animated roles -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=650&size=23&duration=2600&pause=1000&color=00E676&center=true&vCenter=true&width=820&height=50&lines=AI%2FML+Engineer;Agentic+AI+Developer;Backend+Developer;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast" alt="Professional roles"/>
+
+<!-- Professional closing line -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=14&duration=50&pause=2200&color=B9F6CA&center=true&vCenter=true&width=820&height=28&lines=Focused+on+AI%2C+backend+engineering%2C+automation%2C+and+scalable+systems." alt="Professional focus"/>
 
 <br/>
 
-<!-- Neon green badge row -->
-<img src="https://komarev.com/ghpvc/?username=BHANUASATI&style=for-the-badge&color=000000&label=VISITORS&labelColor=00FF41"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/BHANUASATI?label=FOLLOWERS&style=for-the-badge&color=000000&labelColor=00FF41"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/BHANUASATI?label=TOTAL+STARS&style=for-the-badge&color=000000&labelColor=00b300"/>
+<div align="center">
+
+<!-- GitHub Profile Metrics -->
+<img src="https://komarev.com/ghpvc/?username=BHANUASATI&style=for-the-badge&color=0B1220&labelColor=00C853&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/BHANUASATI?style=for-the-badge&label=FOLLOWERS&color=0B1220&labelColor=00E676" alt="Followers"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/stars/BHANUASATI?style=for-the-badge&label=STARS&color=0B1220&labelColor=69F0AE" alt="Stars"/>
+
+<br><br>
+
+<!-- Animated accent -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=13&duration=70&pause=1800&color=00E676&center=true&vCenter=true&width=500&height=25&lines=Thanks+for+stopping+by+%E2%80%A2+Let's+build+something+great." alt="Animated message"/>
 
 </div>
 
-<!-- Neon animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+<!-- Subtle animated divider -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A0D,50:00C853,100:071A0D&height=4&section=header&animation=fadeIn" width="100%" alt="Animated divider"/>
+</div>
 
 <br/>
 
-<!-- ══════ ABOUT ME ══════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3C+About+Me+%2F%3E" alt="About Me"/>
+</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+Full-Stack+Engineering;Backend+Systems+%7C+REST+APIs+%7C+Database+Engineering;AI+Applications+%7C+Agentic+Workflows+%7C+Cloud+Development"
+    alt="Typing animation"
+  />
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+
+<!-- ═════════════════════ LEFT CONTENT ═════════════════════ -->
+
+<td width="68%" valign="top">
 
 <h3>
-
-```
-╔════════════════════════════════════════╗
-║  $ whoami                              ║
-╠════════════════════════════════════════╣
-║                                        ║
-║  NAME    ›  Bhanu Asati                ║
-║  FROM    ›  India  🇮🇳                 ║
-║  ROLE    ›  Full-Stack Dev + Cloud     ║
-║  STATUS  ›  [ ONLINE ]  always open    ║
-║  EDITOR  ›  VS Code  (dark theme)      ║
-║  DEBUG   ›  console.log("why??")       ║
-║  COFFEE  ›  ██████████  100%           ║
-║  OS      ›  Works-On-My-Machine™       ║
-║                                        ║
-╚════════════════════════════════════════╝
-```
-
+  <img src="https://img.icons8.com/fluency/24/rocket.png" width="22"/>
+  Building Software That Solves Problems
 </h3>
 
-**`// Currently running:`**
+I'm **Bhanu Asati**, a software developer focused on building
+**full-stack applications, backend services, and intelligent software systems**.
 
-```bash
-$ react-build --app "Next.js + Node.js"
-$ cloud-deploy --target "AWS | Azure | GCP"
-$ research --module "LLMs + Agentic AI + RAG"
-$ git push origin main   # always shipping
-```
+My engineering interests include **backend architecture, RESTful API design,
+relational and NoSQL databases, application integration, and cloud-based
+deployment**. I'm also exploring **AI applications and agentic workflows** —
+especially systems that connect models, tools, data, and business logic into
+practical software.
 
-**`// Open to:`** &nbsp; `collabs` &nbsp;·&nbsp; `open-source` &nbsp;·&nbsp; `internships` &nbsp;·&nbsp; `freelance`
+I approach development with a strong focus on **clean architecture,
+modularity, maintainability, performance, and reliable system integration**.
+Rather than treating frameworks as black boxes, I focus on understanding
+**why a system is designed the way it is** and how its components work together.
 
-<br clear="both"/>
+<br>
 
-<!-- Neon animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+<h3>
+  <img src="https://img.icons8.com/fluency/24/code.png" width="22"/>
+  Engineering Focus
+</h3>
 
-<br/>
+<table>
+<tr>
+<td width="50%">
+
+🔵 <b>Application Engineering</b><br>
+<sub>Full-stack applications · Component design · Service integration</sub>
+
+<br><br>
+
+🟣 <b>Backend Engineering</b><br>
+<sub>REST APIs · Business logic · Authentication · Service architecture</sub>
+
+<br><br>
+
+🟢 <b>Database Engineering</b><br>
+<sub>SQL · Schema design · Query optimization · Data persistence</sub>
+
+</td>
+
+<td width="50%">
+
+🟠 <b>AI Engineering</b><br>
+<sub>AI applications · Agents · Tool integration · Workflow automation</sub>
+
+<br><br>
+
+🔴 <b>Software Engineering</b><br>
+<sub>DSA · System design · Debugging · Code quality</sub>
+
+<br><br>
+
+⚪ <b>Infrastructure</b><br>
+<sub>Git · Docker · Linux · CI/CD · Cloud deployment</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h3>
+  <img src="https://img.icons8.com/fluency/24/settings.png" width="22"/>
+  Engineering Philosophy
+</h3>
+
+> <b>Understand the system. Design intentionally. Build reliably.</b>
+
+I believe strong software engineering is not only about writing code —
+it's about **making good technical decisions, understanding trade-offs,
+and building systems that remain maintainable as they grow.**
+
+</td>
+
+
+<!-- ═════════════════════ RIGHT PROFILE ═════════════════════ -->
+
+<td width="32%" align="center" valign="top">
+
+<br>
+
+<!-- PROFILE IMAGE -->
+
+<a href="YOUR_GITHUB_PROFILE_URL">
+  <img
+    src="YOUR_IMAGE_URL_HERE"
+    width="245"
+    alt="Bhanu Asati"
+  />
+</a>
+
+<br><br>
+
+<h3>
+  <font color="#58A6FF">Bhanu Asati</font>
+</h3>
+
+<p>
+  <b>Software Developer</b><br>
+  <sub>Full-Stack • Backend • AI</sub>
+</p>
+
+<br>
+
+<!-- TECH STACK -->
+
+<img
+  src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,spring,mysql,mongodb,docker,git,aws&perline=4"
+  alt="Technology Stack"
+/>
+
+<br><br>
+
+<!-- PROFILE BADGES -->
+
+<img
+  src="https://img.shields.io/badge/Full--Stack-Developer-58A6FF?style=for-the-badge&logo=code&logoColor=white"
+  alt="Full Stack Developer"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Backend-Engineering-8B5CF6?style=for-the-badge&logo=serverfault&logoColor=white"
+  alt="Backend Engineering"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/AI-Applications-22C55E?style=for-the-badge&logo=openai&logoColor=white"
+  alt="AI Applications"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Always-Learning-F59E0B?style=for-the-badge&logo=bookstack&logoColor=white"
+  alt="Always Learning"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ═════════════════════ GRADIENT DIVIDER ═════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,50:8B5CF6,100:22C55E"
+    width="82%"
+    alt=""
+  />
+</p>
+
+<br>
+
+<!-- ═════════════════════ CURRENT DIRECTION ═════════════════════ -->
+
+<div align="center">
+
+<h3>
+  <img src="https://img.icons8.com/fluency/24/compass.png" width="22"/>
+  Current Direction
+</h3>
+
+<p>
+  <b>
+    <font color="#58A6FF">Full-Stack Engineering</font>
+    ·
+    <font color="#8B5CF6">Backend Systems</font>
+    ·
+    <font color="#22C55E">AI Applications</font>
+  </b>
+</p>
+
+<p>
+  <b>
+    System Design
+    ·
+    Database Engineering
+    ·
+    Cloud & Deployment
+  </b>
+</p>
+
+<br>
+
+<sub>
+  Designing systems thoughtfully · Writing maintainable code · Continuously improving
+</sub>
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+with+purpose.;Learning+through+engineering.;Turning+ideas+into+reliable+software."
+  alt="Engineering mindset"
+/>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       END ABOUT ME                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+
 
 <!-- ══════ TECH STACK ══════ -->
 
