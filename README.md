@@ -61,15 +61,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3C+About+Me+%2F%3E" alt="About Me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%3C+About+Me+%2F%3E" alt="About Me "/ >
 </h2>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+Full-Stack+Engineering;Backend+Systems+%7C+REST+APIs+%7C+Database+Engineering;AI+Applications+%7C+Agentic+Workflows+%7C+Cloud+Development"
-    alt="Typing animation"
-  />
-</p>
+
 
 <br>
 
@@ -170,7 +165,7 @@ and building systems that remain maintainable as they grow.**
 
 <a href="YOUR_GITHUB_PROFILE_URL">
   <img
-    src="YOUR_IMAGE_URL_HERE"
+    src="Bhanu_Asati_Image.png"
     width="245"
     alt="Bhanu Asati"
   />
@@ -189,12 +184,7 @@ and building systems that remain maintainable as they grow.**
 
 <br>
 
-<!-- TECH STACK -->
 
-<img
-  src="https://skillicons.dev/icons?i=java,python,javascript,typescript,react,nodejs,spring,mysql,mongodb,docker,git,aws&perline=4"
-  alt="Technology Stack"
-/>
 
 <br><br>
 
@@ -297,112 +287,714 @@ and building systems that remain maintainable as they grow.**
 
 
 
-<!-- ══════ TECH STACK ══════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ⚙️  TECH STACK  ⚙️                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%E2%9A%99%EF%B8%8F++TECH+STACK+%E2%9A%99%EF%B8%8F" alt="tech stack header"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=%E2%9A%99%EF%B8%8F+TECH+STACK+%E2%9A%99%EF%B8%8F"
+  alt="Tech Stack"
+/>
+
+<br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E"
+  width="100%"
+  alt=""
+/>
+
+<br><br>
+
+<b>Building with modern technologies across Full-Stack Engineering, AI & Cloud</b>
+
+<br><br><br>
+
+
+<!-- ╔════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       APPLICATION LAYER                            ║ -->
+<!-- ╚════════════════════════════════════════════════════════════════════╝ -->
+
+<h2>🌐 Application Engineering</h2>
+
+<br>
+
+<table width="100%">
+
+<tr>
+
+<td width="33.33%" align="center" valign="top">
+
+<h2>💻</h2>
+
+<h3>PROGRAMMING</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark&perline=3"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=ts,cpp,c&theme=dark&perline=3"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cs,php,bash&theme=dark&perline=3"/>
+
+<br><br>
+
+<sub>
+<b>Java · Python · JavaScript</b><br>
+TypeScript · C++ · C · C# · PHP
+</sub>
+
+</td>
+
+
+<td width="33.33%" align="center" valign="top">
+
+<h2>🎨</h2>
+
+<h3>FRONTEND</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue&theme=dark&perline=3"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=angular,tailwind,bootstrap&theme=dark&perline=3"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=vite,html,css&theme=dark&perline=3"/>
+
+<br><br>
+
+<sub>
+<b>React · Next.js · Vue</b><br>
+Angular · Tailwind · Bootstrap · Vite
+</sub>
+
+</td>
+
+
+<td width="33.33%" align="center" valign="top">
+
+<h2>⚡</h2>
+
+<h3>BACKEND</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi&theme=dark&perline=3"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=django,flask,dotnet&theme=dark&perline=3"/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF"
+  alt="REST APIs"
+/>
+
+<br><br>
+
+<sub>
+<b>REST APIs · Services</b><br>
+Business Logic · Backend Architecture
+</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+
+<br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         DATA + CLOUD                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>☁️ Data, Cloud & Infrastructure</h2>
+
+<br>
+
+<table width="100%">
+
+<tr>
+
+<td width="33.33%" align="center" valign="top">
+
+<h2>🗄️</h2>
+
+<h3>DATABASES</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark&perline=3"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=sqlite,redis&theme=dark&perline=2"/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"
+  alt="SQL"
+/>
+
+<img
+  src="https://img.shields.io/badge/NoSQL-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248"
+  alt="NoSQL"
+/>
+
+<br><br>
+
+<sub>
+<b>Schema Design · Queries</b><br>
+Persistence · Optimization
+</sub>
+
+</td>
+
+
+<td width="33.33%" align="center" valign="top">
+
+<h2>☁️</h2>
+
+<h3>CLOUD</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark&perline=3"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=firebase,vercel&theme=dark&perline=2"/>
+
+<br><br>
+
+<sub>
+<b>AWS · Azure · Google Cloud</b><br>
+Firebase · Vercel
+</sub>
+
+</td>
+
+
+<td width="33.33%" align="center" valign="top">
+
+<h2>🐳</h2>
+
+<h3>DEVOPS</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx&theme=dark&perline=3"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=githubactions,terraform,linux&theme=dark&perline=3"/>
+
+<br><br>
+
+<sub>
+<b>Docker · Kubernetes · Nginx</b><br>
+CI/CD · Infrastructure · Linux
+</sub>
+
+</td>
+
+</tr>
+
+</table>
+
+
+<br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    🧠 AGENTIC AI SHOWCASE                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:8B5CF6,50:EC4899,100:22C55E"
+  width="100%"
+  alt=""
+/>
+
+<br><br>
+
+<h2>🧠 Agentic AI Engineering</h2>
+
+<p>
+<b>From LLM Applications → Agent Orchestration → Evaluation & Observability</b>
+</p>
+
+<br>
+
+<table width="100%">
+
+<tr>
+
+<!-- ═════════════════════ LANGCHAIN ═════════════════════ -->
+
+<td width="33.33%" align="center" valign="top">
+
+<br>
+
+<h1>🦜</h1>
+
+<h2>LangChain</h2>
+
+<img
+  src="https://img.shields.io/badge/LLM%20APPLICATIONS-0D1117?style=for-the-badge&logoColor=1C8DFF"
+  alt="LLM Applications"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&logoColor=F59E0B"
+  alt="RAG"
+/>
+
+<img
+  src="https://img.shields.io/badge/Tools-0D1117?style=flat-square&logoColor=58A6FF"
+  alt="Tools"
+/>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/Chains-0D1117?style=flat-square&logoColor=8B5CF6"
+  alt="Chains"
+/>
+
+<img
+  src="https://img.shields.io/badge/Prompts-0D1117?style=flat-square&logoColor=22C55E"
+  alt="Prompts"
+/>
+
+<br><br>
+
+<sub>
+<b>LLM Application Layer</b><br>
+RAG · Chains · Tools · Prompt Engineering
+</sub>
+
+<br><br>
+
+</td>
+
+
+<!-- ═════════════════════ LANGGRAPH ═════════════════════ -->
+
+<td width="33.33%" align="center" valign="top">
+
+<br>
+
+<h1>🔀</h1>
+
+<h2>LangGraph</h2>
+
+<img
+  src="https://img.shields.io/badge/AGENT%20ORCHESTRATION-0D1117?style=for-the-badge&logoColor=8B5CF6"
+  alt="Agent Orchestration"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Stateful%20Agents-0D1117?style=flat-square&logoColor=8B5CF6"
+  alt="Stateful Agents"
+/>
+
+<img
+  src="https://img.shields.io/badge/Graph%20Workflows-0D1117?style=flat-square&logoColor=EC4899"
+  alt="Graph Workflows"
+/>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/Multi--Agent-0D1117?style=flat-square&logoColor=22C55E"
+  alt="Multi Agent"
+/>
+
+<img
+  src="https://img.shields.io/badge/Tool%20Routing-0D1117?style=flat-square&logoColor=58A6FF"
+  alt="Tool Routing"
+/>
+
+<br><br>
+
+<sub>
+<b>Agent Runtime Layer</b><br>
+State · Nodes · Graphs · Multi-Agent Workflows
+</sub>
+
+<br><br>
+
+</td>
+
+
+<!-- ═════════════════════ LANGSMITH ═════════════════════ -->
+
+<td width="33.33%" align="center" valign="top">
+
+<br>
+
+<h1>🔬</h1>
+
+<h2>LangSmith</h2>
+
+<img
+  src="https://img.shields.io/badge/EVALUATION%20%26%20OBSERVABILITY-0D1117?style=for-the-badge&logoColor=22C55E"
+  alt="Evaluation and Observability"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Tracing-0D1117?style=flat-square&logoColor=F59E0B"
+  alt="Tracing"
+/>
+
+<img
+  src="https://img.shields.io/badge/Evaluation-0D1117?style=flat-square&logoColor=22C55E"
+  alt="Evaluation"
+/>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/Debugging-0D1117?style=flat-square&logoColor=58A6FF"
+  alt="Debugging"
+/>
+
+<img
+  src="https://img.shields.io/badge/Monitoring-0D1117?style=flat-square&logoColor=EC4899"
+  alt="Monitoring"
+/>
+
+<br><br>
+
+<sub>
+<b>AI Quality Layer</b><br>
+Tracing · Evaluation · Debugging · Observability
+</sub>
+
+<br><br>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<!-- AGENT FLOW -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:58A6FF,50:8B5CF6,100:22C55E"
+  width="75%"
+  alt=""
+/>
+
+<br><br>
+
+<h3>
+
+🦜 LangChain
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🔀 LangGraph
+&nbsp;&nbsp;→&nbsp;&nbsp;
+🔬 LangSmith
+
+</h3>
+
+<sub>
+<b>Build → Orchestrate → Trace → Evaluate → Improve</b>
+</sub>
+
+
+<br><br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ENGINEERING TOOLBOX                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>🛠️ Engineering Toolbox</h2>
+
+<br>
+
+<table width="100%">
+
+<tr>
+
+<td width="33.33%" align="center" valign="top">
+
+<h3>🔧 DEVELOPMENT</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=2"/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37"
+  alt="Postman"
+/>
+
+</td>
+
+
+<td width="33.33%" align="center" valign="top">
+
+<h3>🎯 SOFTWARE ENGINEERING</h3>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/DSA-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+  alt="DSA"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logoColor=58A6FF"
+  alt="System Design"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Architecture-0D1117?style=for-the-badge&logoColor=8B5CF6"
+  alt="Architecture"
+/>
+
+</td>
+
+
+<td width="33.33%" align="center" valign="top">
+
+<h3>🎨 DESIGN & PRODUCTIVITY</h3>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC"
+  alt="Canva"
+/>
+
+<img
+  src="https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira&logoColor=2684FF"
+  alt="Jira"
+/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br><br>
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         CORE STACK                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=5&section=header&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E"
+  width="100%"
+  alt=""
+/>
+
+<br><br>
+
+<h2>🔥 My Core Stack</h2>
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=6DB33F"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=1C8DFF"/>
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/LangSmith-0D1117?style=for-the-badge&logoColor=22C55E"/>
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Build+%E2%86%92+Orchestrate+%E2%86%92+Evaluate+%E2%86%92+Deploy;Turning+ideas+into+reliable+software+systems."
+  alt="Engineering tagline"
+/>
+
+<br><br>
+
+<sub>
+<b>⚡ BUILD</b>
+&nbsp;•&nbsp;
+<b>🧠 REASON</b>
+&nbsp;•&nbsp;
+<b>🔀 ORCHESTRATE</b>
+&nbsp;•&nbsp;
+<b>🔬 EVALUATE</b>
+&nbsp;•&nbsp;
+<b>🚀 SHIP</b>
+</sub>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      END TECH STACK                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       NEON DIVIDER                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=6&section=header&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E"
+  width="100%"
+  alt="Neon divider"
+/>
+
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=12&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=25&lines=%E2%9A%A1+BUILD+%C2%B7+LEARN+%C2%B7+ITERATE+%C2%B7+SHIP+%E2%9A%A1"
+  alt="Engineering divider"
+/>
+
+</p>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    📊 GITHUB ANALYTICS                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<!-- Section Header -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=9999&pause=9999&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%93%8A+GITHUB+ANALYTICS+%E2%80%94+CODE+%26+CONSISTENCY" alt="GitHub Analytics"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&color=0:58A6FF,50:8B5CF6,100:22C55E" width="85%" alt="divider"/>
+
+<br/><br/>
+
+<!-- ─────────────── CORE STATISTICS ─────────────── -->
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-**`[ LANGUAGES ]`**
+### ⚡ GitHub Performance
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c&theme=dark&perline=6"/>
-<img src="https://skillicons.dev/icons?i=cs,php,bash,html,css,r&theme=dark&perline=6"/>
+<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BHANUASATI&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&custom_title=Bhanu+Asati+%E2%80%94+GitHub+Stats&ring_color=58A6FF" alt="GitHub Stats"/>
 
 </td>
+
 <td align="center" width="50%">
 
-**`[ FRONTEND ]`**
+### 💻 Most Used Languages
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular&theme=dark&perline=4"/>
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite&theme=dark&perline=4"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**`[ BACKEND & APIs ]`**
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi,dotnet&theme=dark&perline=5"/>
-
-</td>
-<td align="center" width="50%">
-
-**`[ DATABASES ]`**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,redis&theme=dark&perline=5"/>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**`[ CLOUD · DEVOPS ]`**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes&theme=dark&perline=5"/>
-<img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,nginx,githubactions&theme=dark&perline=5"/>
-
-</td>
-<td align="center" width="50%">
-
-**`[ AI / ML ]`**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=3"/>
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-**`[ DESIGN & TOOLS ]`**
-
-<img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode,linux,raspberrypi&theme=dark&perline=7"/>
-
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat-square&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BHANUASATI&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&custom_title=Technology+Distribution" alt="Most Used Languages"/>
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
 
-<!-- Neon animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+<!-- ─────────────── CONTRIBUTION STREAK ─────────────── -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:22C55E,50:58A6FF,100:8B5CF6" width="70%" alt="divider"/>
+
+<br/><br/>
+
+### 🔥 Contribution Streak
+
+<img width="72%" src="https://streak-stats.demolab.com/?user=BHANUASATI&theme=highcontrast&background=0D1117&ring=58A6FF&fire=F59E0B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&border=30363D&currStreakNum=FFFFFF&sideNums=58A6FF" alt="GitHub Contribution Streak"/>
+
+<br/><br/>
+
+<!-- ─────────────── ENGINEERING METRICS ─────────────── -->
+
+<table>
+<tr>
+<td align="center">
+
+🚀 <b>BUILD</b><br/>
+<sub>Projects & Repositories</sub>
+
+</td>
+<td align="center">
+
+🔥 <b>CONSISTENCY</b><br/>
+<sub>Contribution Streak</sub>
+
+</td>
+<td align="center">
+
+💻 <b>EXPERIMENT</b><br/>
+<sub>Languages & Technologies</sub>
+
+</td>
+<td align="center">
+
+📈 <b>GROWTH</b><br/>
+<sub>Continuous Improvement</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<!-- ══════ GITHUB STATS ══════ -->
+<!-- ─────────────── PHILOSOPHY ─────────────── -->
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%93%8A++GITHUB+STATISTICS" alt="stats header"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=750&height=30&lines=%E2%9A%A1+Code+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve+%E2%86%92+Ship+%F0%9F%9A%80" alt="Engineering Philosophy"/>
 
 <br/><br/>
 
-<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BHANUASATI&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FF41&icon_color=00b300&text_color=00CC33&custom_title=Bhanu+Asati+%E2%80%94+GitHub+Stats&ring_color=00FF41"/>
-&nbsp;
-<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BHANUASATI&layout=compact&langs_count=8&hide_border=true&bg_color=0D0D0D&title_color=00FF41&text_color=00CC33&custom_title=Most+Used+Languages"/>
-
-<br/><br/>
-
-<img width="65%" src="https://streak-stats.demolab.com/?user=BHANUASATI&theme=highcontrast&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&dates=00b300&stroke=00FF41&border=003300&currStreakNum=FFFFFF&sideNums=00FF41"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&section=footer&color=0:58A6FF,25:8B5CF6,50:EC4899,75:F59E0B,100:22C55E" width="100%" alt="GitHub Footer Divider"/>
 
 </div>
-
-<!-- Neon animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
 <br/>
 
@@ -422,44 +1014,153 @@ and building systems that remain maintainable as they grow.**
 
 </div>
 
-<!-- Neon animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+
 
 <br/>
 
-<!-- ══════ PROFILE OVERVIEW ══════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PROFILE OVERVIEW                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00FF41&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%94%8D++PROFILE+DEEP+DIVE" alt="overview header"/>
-
-<br/><br/>
-
-<img src="https://github-widgetbox.vercel.app/api/profile?username=BHANUASATI&data=followers,repositories,stars,commits&theme=serika-dark" width="82%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHANUASATI&theme=chartreuse-dark" width="94%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHANUASATI&theme=chartreuse-dark" width="44%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHANUASATI&theme=chartreuse-dark" width="44%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHANUASATI&theme=chartreuse-dark" width="44%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHANUASATI&theme=chartreuse-dark&utcOffset=5.5" width="44%"/>
-
-</div>
-
-<!-- Neon animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+<!-- Section Header -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=9999&pause=9999&color=00C853&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%93%8A+PROFILE+ANALYTICS"
+  alt="Profile Analytics"
+/>
 
 <br/>
 
+<p>
+  <b>🚀 A closer look at my GitHub journey</b><br/>
+  <sub>Projects • Contributions • Languages • Coding Activity</sub>
+</p>
+
+<br/>
+
+<!-- ═══════════════ PROFILE STATS ═══════════════ -->
+
+<img
+  src="https://github-widgetbox.vercel.app/api/profile?username=BHANUASATI&data=followers,repositories,stars,commits&theme=dark"
+  width="88%"
+  alt="GitHub Profile Statistics"
+/>
+
+<br/><br/>
+
+<!-- ═══════════════ CONTRIBUTION OVERVIEW ═══════════════ -->
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BHANUASATI&theme=github_dark"
+  width="94%"
+  alt="GitHub Contribution Overview"
+/>
+
+<br/><br/>
+
+<!-- ═══════════════ LANGUAGE ANALYTICS ═══════════════ -->
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BHANUASATI&theme=github_dark"
+  width="96%"
+  alt="Languages Used Across Repositories"
+/>
+
+<br/>
+
+<b>🧩 Repository Languages</b><br/>
+<sub>Languages used across my projects</sub>
+
+</td>
+
+<td align="center" width="50%">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BHANUASATI&theme=github_dark"
+  width="96%"
+  alt="Most Used Languages by Commits"
+/>
+
+<br/>
+
+<b>💻 Most Committed Languages</b><br/>
+<sub>Languages I actively contribute with</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ CODING ANALYTICS ═══════════════ -->
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BHANUASATI&theme=github_dark"
+  width="96%"
+  alt="GitHub Statistics"
+/>
+
+<br/>
+
+<b>📈 GitHub Statistics</b><br/>
+<sub>Overall repository & contribution metrics</sub>
+
+</td>
+
+<td align="center" width="50%">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BHANUASATI&theme=github_dark&utcOffset=5.5"
+  width="96%"
+  alt="Productive Coding Time"
+/>
+
+<br/>
+
+<b>⏱️ Productive Hours</b><br/>
+<sub>When I spend the most time coding</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ STATUS ═══════════════ -->
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=9999&pause=9999&color=00A846&center=true&vCenter=true&width=720&height=25&lines=%E2%9C%A8+BUILDING+%C2%B7+CONTRIBUTING+%C2%B7+LEARNING+%C2%B7+SHIPPING"
+  alt="Developer Status"
+/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED DIVIDER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img
+  src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
+  width="100%"
+  alt="Animated Divider"
+/>
+
+<br/>
 <!-- ══════ 3D CONTRIBUTION ══════ -->
 
 <div align="center">
